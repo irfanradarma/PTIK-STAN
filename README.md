@@ -35,7 +35,7 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>2</td>
     <td>Perangkat Keras (Hardware)</td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Pertemuan%20ke-2.pptx" target="_blank">Perangkat Keras</a></td>
     <td></td>
     <td></td>
   </tr>
