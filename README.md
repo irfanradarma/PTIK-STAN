@@ -26,10 +26,10 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>1</td>
     <td>Konsep Sistem Informasi dan Teknologi Informasi</td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/TIK%20STAN.pdf" target="_blank">1. TIK Sektor Publik</a><br><br>
-    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/Pertemuan%20ke-1%20-%20The%20Internet%20and%20The%20World%20Wide%20Web%20Exploring%20Cyberspace.pptx" target="_blank">2. Internet</a>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/TIK%20STAN.pdf" target="_blank">1. TIK Sektor Publik</a><br><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/Pertemuan%20ke-1%20-%20The%20Internet%20and%20The%20World%20Wide%20Web%20Exploring%20Cyberspace.pptx" target="_blank">2. Internet</a>
     </td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/1.%20Konsep%20SI%20dan%20TI.pptx" target="_blank">01. Konsep SI dan TI</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/1.%20Konsep%20SI%20dan%20TI.pptx" target="_blank">01. Konsep SI dan TI</a></td>
     <td><a href="https://forms.gle/SghsmtAwdDKDhen57" target="_blank">Submit Tugas I</a>
   </tr>
   <tr>
