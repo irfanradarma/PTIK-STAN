@@ -30,7 +30,7 @@ by Teuku Raja Irfan Radarma
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/Pertemuan%20ke-1%20-%20The%20Internet%20and%20The%20World%20Wide%20Web%20Exploring%20Cyberspace.pptx" target="_blank">2. Internet</a>
     </td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/1.%20Konsep%20SI%20dan%20TI.pptx" target="_blank">01. Konsep SI dan TI</a></td>
-    <td><a href="https://forms.gle/SghsmtAwdDKDhen57" target="_blank">Submit Tugas I</a>
+    <td><a href="https://forms.gle/SghsmtAwdDKDhen57" target="_blank">Submit Tugas I</a></td>
   </tr>
   <tr>
     <td>2</td>
