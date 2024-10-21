@@ -36,7 +36,7 @@ by Teuku Raja Irfan Radarma
     <td>2</td>
     <td>Perangkat Keras (Hardware)</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Pertemuan%20ke-2.pptx" target="_blank">Perangkat Keras</a></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/2.%20Hardware.pptx" target="_blank">Perangkat Keras</a></td>
     <td>Bahan Praktikum:<br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/Modul%20Tutorial%20Penulisan%20Laporan%20Skripsi%202023%20bagi_231003_001215.pdf" target="_blank">1. Modul Tutorial Penulisan Skripsi</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/Per%20Dir%20PKN%20STAN%20nomor%209%20Tahun%202020%20tentang%20Penyusunan%20KTTA%20dan%20Pelaksanaan%20Ujian%20Komprehensif.pdf" target="_blank">2. Per-Direktur STAN tentang Penyusunan KTTA</a><br>
@@ -44,7 +44,9 @@ by Teuku Raja Irfan Radarma
     Latihan:<br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20Sebelum diformat%20-%20Proposal%20Skripsi.docx" target="_blank">1. Sebelum diformat</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20setelah%20diformat%20-%20Proposal%20Skripsi.pdf" target="_blank">1. Setelah diformat</a><br>
-    <a href="https://www.youtube.com/watch?v=FbB4sBNhR-c" target="_blank">Video Tutorial</a></td>
+    <a href="https://www.youtube.com/watch?v=FbB4sBNhR-c" target="_blank">Video Tutorial</a><br><br>
+    <a href="https://forms.gle/xnApH49hihTDsHmt7" target="_blank">Link Submit Tugas II</a></td>
+    
   </tr>
   <tr>
     <td>3</td>
