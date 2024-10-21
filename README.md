@@ -36,7 +36,7 @@ by Teuku Raja Irfan Radarma
     <td>2</td>
     <td>Perangkat Keras (Hardware)</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Pertemuan%20ke-2.pptx" target="_blank">Perangkat Keras</a></td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/2.%20Hardware.pptx" target="_blank">Perangkat Keras</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/2.%20Hardware.pptx" target="_blank">02. Ilustrasi Hardware Inti</a></td>
     <td>Bahan Praktikum:<br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/Modul%20Tutorial%20Penulisan%20Laporan%20Skripsi%202023%20bagi_231003_001215.pdf" target="_blank">1. Modul Tutorial Penulisan Skripsi</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/Per%20Dir%20PKN%20STAN%20nomor%209%20Tahun%202020%20tentang%20Penyusunan%20KTTA%20dan%20Pelaksanaan%20Ujian%20Komprehensif.pdf" target="_blank">2. Per-Direktur STAN tentang Penyusunan KTTA</a><br>
@@ -51,7 +51,7 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>3</td>
     <td>Sistem Operasi dan Perangkat Lunak (Software)</td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/Pertemuan%20ke-3%20-%20OS,%20Software%20dan%20Web%20Programming.pptx" target="_blank">Perangkat Lunak</a></td>
     <td></td>
     <td></td>
   </tr>
