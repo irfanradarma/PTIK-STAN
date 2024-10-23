@@ -64,27 +64,74 @@ by Teuku Raja Irfan Radarma
   </tr>
   <tr>
     <td>5</td>
-    <td>Basis Data I</td>
+    <td>Mengolah Data menggunakan Spreadsheet I</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
-    <td>Basis Data II</td>
+    <td>Mengolah Data menggunakan Spreadsheet II</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Pendalaman Ms. Word</td>
+    <td colspan="4" aligtn="center" color="black">Ujian Praktikum Tengah Semester</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td colspan="4" align="center" color="black">UTS (Ujian Tengah Semester)</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Basis Data I</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>10</td>
+    <td>Basis Data II</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>11</td>
+    <td>Data Visualization</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>12</td>
+    <td>Big Data, AI, Data Mining I</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>8</td>
-    <td colspan="4" align="center" color="black">UTS (Ujian Tengah Semester)</td>
+    <td>13</td>
+    <td>Big Data, AI, Data Mining II</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Pemrograman Dasar</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td colspan="4" aligtn="center" color="black">Ujian Praktikum Akhir Semester</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td colspan="4" align="center" color="black">UAS (Ujian Akhir Semester)</td>
   </tr>
 </table>
