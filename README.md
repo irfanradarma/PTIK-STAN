@@ -78,7 +78,7 @@ by Teuku Raja Irfan Radarma
   </tr>
   <tr>
     <td>7</td>
-    <td colspan="4" aligtn="center" color="black">Ujian Praktikum Tengah Semester</td>
+    <td colspan="4" align="center" color="black">Ujian Praktikum Tengah Semester</td>
   </tr>
   <tr>
     <td>8</td>
@@ -128,7 +128,7 @@ by Teuku Raja Irfan Radarma
   </tr>
   <tr>
     <td>15</td>
-    <td colspan="4" aligtn="center" color="black">Ujian Praktikum Akhir Semester</td>
+    <td colspan="4" align="center" color="black">Ujian Praktikum Akhir Semester</td>
   </tr>
   <tr>
     <td>16</td>
