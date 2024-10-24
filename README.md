@@ -21,6 +21,7 @@ by Teuku Raja Irfan Radarma
     <th>Topik</th>
     <th>Slide Dosko</th>
     <th>Bahan Ajar Irfan</th>
+    <th>Praktikum</th>
     <th>Lain-Lain</th>
   </tr>
   <tr>
@@ -30,6 +31,7 @@ by Teuku Raja Irfan Radarma
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/Pertemuan%20ke-1%20-%20The%20Internet%20and%20The%20World%20Wide%20Web%20Exploring%20Cyberspace.pptx" target="_blank">2. Internet</a>
     </td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/1.%20Konsep%20SI%20dan%20TI.pptx" target="_blank">01. Konsep SI dan TI</a></td>
+    <td></td>
     <td><a href="https://forms.gle/GYFFNZq7JggcCKyD8" target="_blank">Submit Tugas I</a></td>
   </tr>
   <tr>
@@ -44,8 +46,8 @@ by Teuku Raja Irfan Radarma
     Latihan:<br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20Sebelum diformat%20-%20Proposal%20Skripsi.docx" target="_blank">1. Sebelum diformat</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20setelah%20diformat%20-%20Proposal%20Skripsi.pdf" target="_blank">1. Setelah diformat</a><br>
-    <a href="https://www.youtube.com/watch?v=FbB4sBNhR-c" target="_blank">Video Tutorial</a><br><br>
-    <a href="https://forms.gle/xnApH49hihTDsHmt7" target="_blank">Link Submit Tugas II</a></td>
+    <a href="https://www.youtube.com/watch?v=FbB4sBNhR-c" target="_blank">Video Tutorial</a></td>
+    <td><a href="https://forms.gle/xnApH49hihTDsHmt7" target="_blank">Link Submit Tugas II</a></td>
     
   </tr>
   <tr>
@@ -54,10 +56,12 @@ by Teuku Raja Irfan Radarma
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/Pertemuan%20ke-3%20-%20OS,%20Software%20dan%20Web%20Programming.pptx" target="_blank">Perangkat Lunak</a></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Jaringan dan Telekomunikasi</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -68,6 +72,7 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>6</td>
@@ -75,18 +80,20 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
-    <td colspan="4" align="center" color="black">Ujian Praktikum Tengah Semester</td>
+    <td colspan="5" align="center" color="black">Ujian Praktikum Tengah Semester</td>
   </tr>
   <tr>
     <td>8</td>
-    <td colspan="4" align="center" color="black">UTS (Ujian Tengah Semester)</td>
+    <td colspan="5" align="center" color="black">UTS (Ujian Tengah Semester)</td>
   </tr>
   <tr>
     <td>9</td>
     <td>Basis Data I</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -97,10 +104,12 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
     <tr>
     <td>11</td>
     <td>Data Visualization</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -111,10 +120,12 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>13</td>
     <td>Big Data, AI, Data Mining II</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -125,13 +136,14 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>15</td>
-    <td colspan="4" align="center" color="black">Ujian Praktikum Akhir Semester</td>
+    <td colspan="5" align="center" color="black">Ujian Praktikum Akhir Semester</td>
   </tr>
   <tr>
     <td>16</td>
-    <td colspan="4" align="center" color="black">UAS (Ujian Akhir Semester)</td>
+    <td colspan="5" align="center" color="black">UAS (Ujian Akhir Semester)</td>
   </tr>
 </table>
