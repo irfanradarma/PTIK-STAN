@@ -57,12 +57,12 @@ by Teuku Raja Irfan Radarma
     <td></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Sebelum%20Format%20-%20Laporan%20Skripsi.docx" target="_blank">2. Sebelum Format</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Setelah%20Format%20-%20Laporan%20Skripsi.pdf" target="_blank">2. Setelah Format</a></td>
-    <td>Tugas III: Format Word 1 & 2</td>
+    <td>Tugas III: Format Word 2 (link menyusul)</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Jaringan dan Telekomunikasi</td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/04/Pertemuan%20ke%204%20-%20Jaringan%20dan%20Telekomunikasi%20-%20FInal.pptx" target="_blank">Jaringan (Network)</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -70,7 +70,7 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>5</td>
     <td>Mengolah Data menggunakan Spreadsheet I</td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/05/Pertemuan%205%20-%20Pengenalan%20Ms.Excel.pptx" target="_blank">Intro to Ms. Excel</a></td>
     <td></td>
     <td></td>
     <td></td>
