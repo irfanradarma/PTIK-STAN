@@ -32,7 +32,7 @@ by Teuku Raja Irfan Radarma
     </td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/01/1.%20Konsep%20SI%20dan%20TI.pptx" target="_blank">01. Konsep SI dan TI</a></td>
     <td></td>
-    <td><a href="https://forms.gle/GYFFNZq7JggcCKyD8" target="_blank">Submit Tugas I</a></td>
+    <td><a href="https://forms.gle/GYFFNZq7JggcCKyD8" target="_blank">Tugas I: Konten Positif Medsos</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -47,7 +47,7 @@ by Teuku Raja Irfan Radarma
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20Sebelum diformat%20-%20Proposal%20Skripsi.docx" target="_blank">1. Sebelum diformat</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/02/Praktikum/1.%20setelah%20diformat%20-%20Proposal%20Skripsi.pdf" target="_blank">1. Setelah diformat</a><br>
     <a href="https://www.youtube.com/watch?v=FbB4sBNhR-c" target="_blank">Video Tutorial</a></td>
-    <td><a href="https://forms.gle/xnApH49hihTDsHmt7" target="_blank">Link Submit Tugas II</a></td>
+    <td><a href="https://forms.gle/xnApH49hihTDsHmt7" target="_blank">Tugas II: Simulasi Rakit PC</a></td>
     
   </tr>
   <tr>
@@ -55,8 +55,9 @@ by Teuku Raja Irfan Radarma
     <td>Sistem Operasi dan Perangkat Lunak (Software)</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/Pertemuan%20ke-3%20-%20OS,%20Software%20dan%20Web%20Programming.pptx" target="_blank">Perangkat Lunak</a></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Sebelum%20Format%20-%20Laporan%20Skripsi.docx" target="_blank">2. Sebelum Format</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Setelah%20Format%20-%20Laporan%20Skripsi.pdf" target="_blank">2. Setelah Format</a></td>
+    <td>Tugas III: Format Word 1 & 2</td>
   </tr>
   <tr>
     <td>4</td>
