@@ -54,10 +54,12 @@ by Teuku Raja Irfan Radarma
     <td>3</td>
     <td>Sistem Operasi dan Perangkat Lunak (Software)</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/Pertemuan%20ke-3%20-%20OS,%20Software%20dan%20Web%20Programming.pptx" target="_blank">Perangkat Lunak</a></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/3.%20OS%20dan%20Software.pptx" target="_blank">03. OS & Software</a></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Sebelum%20Format%20-%20Laporan%20Skripsi.docx" target="_blank">2. Sebelum Format</a><br>
-    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Setelah%20Format%20-%20Laporan%20Skripsi.pdf" target="_blank">2. Setelah Format</a></td>
-    <td>Tugas III: Format Word 2 (link menyusul)</td>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/03/2.%20Setelah%20Format%20-%20Laporan%20Skripsi.pdf" target="_blank">2. Setelah Format</a><br>
+    <br><a href="https://www.youtube.com/watch?v=FaIRiPIfubs" target="_blank">Video Tutorial</a></td>
+    <td><a href="https://forms.gle/MNJE2bMUsmp6SoGR6" target="_blank">Tugas III: Format Word 2</a>
+    </td>
   </tr>
   <tr>
     <td>4</td>
@@ -85,7 +87,8 @@ by Teuku Raja Irfan Radarma
   </tr>
   <tr>
     <td>7</td>
-    <td colspan="5" align="center" color="black">Ujian Praktikum Tengah Semester</td>
+    <td colspan="5" align="center" color="black">Ujian Praktikum Tengah Semester<br>
+    Rencana: Word & Excel</td>
   </tr>
   <tr>
     <td>8</td>
