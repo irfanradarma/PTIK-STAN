@@ -67,7 +67,7 @@ by Teuku Raja Irfan Radarma
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/04/Pertemuan%20ke%204%20-%20Jaringan%20dan%20Telekomunikasi%20-%20FInal.pptx" target="_blank">Jaringan (Network)</a></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Tugas IV: Salindia (link menyusul)</td>
   </tr>
   <tr>
     <td>5</td>
