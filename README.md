@@ -65,9 +65,9 @@ by Teuku Raja Irfan Radarma
     <td>4</td>
     <td>Jaringan dan Telekomunikasi</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/04/Pertemuan%20ke%204%20-%20Jaringan%20dan%20Telekomunikasi%20-%20FInal.pptx" target="_blank">Jaringan (Network)</a></td>
-    <td></td>
-    <td></td>
-    <td>Tugas IV: Salindia (link menyusul)</td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/04/04.%20Network" target="_blank">04. Network</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/04/Presentation%20Zen%203%20%20simple%20ideas%20on%20presentation%20design%20and%20delivery%20(Garr%20Reynolds%20Guy%20Kawasaki)" target="_blank">Zen Presentation</a></td>
+    <td><a href="https://forms.gle/oya3yRWjocEU5v9r5" target="_blank">Tugas IV: Salindia</a></td>
   </tr>
   <tr>
     <td>5</td>
