@@ -79,7 +79,7 @@ by Teuku Raja Irfan Radarma
     </td>
     <td>
     <a href="https://forms.gle/EbDnD52GzpcgMisM9" target="_blank">
-    Tugas V: Latihan Excel I</td>
+    Tugas V: Latihan Excel I</a></td>
   </tr>
   <tr>
     <td>6</td>
