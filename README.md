@@ -73,7 +73,7 @@ by Teuku Raja Irfan Radarma
     <td>5</td>
     <td>Mengolah Data menggunakan Spreadsheet I</td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/05/Pertemuan%205%20-%20Pengenalan%20Ms.Excel.pptx" target="_blank">Intro to Ms. Excel</a></td>
-    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=xsRNywdnzdM" target="_blank">Rekaman Kelas Tambahan Online</a></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/05/Data%20Praktik.xlsx" target="_blank">- Data untuk Praktikum</a><br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/05/Tugas%20Excel%20I.xlsx" target="_blank">- Data untuk Tugas V</a>
     </td>
