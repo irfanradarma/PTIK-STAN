@@ -85,8 +85,13 @@ by Teuku Raja Irfan Radarma
     <td>6</td>
     <td>Mengolah Data menggunakan Spreadsheet II</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/06/Data%20Praktik%20I.xlsx" target="_blank">Data Latihan 1</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/06/spotify_data_light.xlsx" target="_blank">Data Spotify</a></td>
+    <td><a href="https://forms.gle/D2T5Ea4vvEiaji9y8" target="_blank">- Ronde I</a>
+    <br>
+    <a href="https://forms.gle/gqDfXrJKm6686ZUP7" target="_blank">- Ronde II</a></td>
+    <br>
+    <a href="https://forms.gle/pa9GvAoDSFe2JbZk6" target="_blank">- Ronde III</a>
     <td></td>
   </tr>
   <tr>
