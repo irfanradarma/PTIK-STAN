@@ -92,7 +92,8 @@ by Teuku Raja Irfan Radarma
     <a href="https://forms.gle/gqDfXrJKm6686ZUP7" target="_blank">- Ronde II</a>
     <br>
     <a href="https://forms.gle/pa9GvAoDSFe2JbZk6" target="_blank">- Ronde III</a></td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/06/Tugas%20VI%20-%20Akuntansi.xlsx" target="_blank">Data Tugas VI: Akuntansi Sederhana</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/06/Tugas%20VI%20-%20Akuntansi.xlsx" target="_blank">Data Tugas VI: Akuntansi Sederhana</a><br><br>
+    <a href="https://forms.gle/nGRhEgfpFWr4WmRr9" target="_blank">Submit Tugas VI</a></td>
   </tr>
   <tr>
     <td>7</td>
