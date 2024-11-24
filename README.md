@@ -98,7 +98,7 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>7</td>
     <td colspan="5" align="center" color="black">Ujian Praktikum Tengah Semester<br>
-    Rencana: Word & Excel</td>
+    <a href="https://forms.gle/wGfE2Qf79iomnpQG9" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td>8</td>
