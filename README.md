@@ -107,9 +107,11 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>9</td>
     <td>Basis Data I</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/09/Pertemuan%20ke-6%20dan%207%20-%20Pengolahan%20data%20menggunakan%20MySQL.pptx" target="_blank">Pengolahan Data Menggunakan MySQL</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/09/9.%20Intro%20to%20Database.pptx" target="_blank">09. Intro to Database</a></td>
+    <td>Unduh aplikasi untuk praktikum:<br>
+    <a href="https://github.com/irfanradarma/TABK-STAN/raw/main/2024/slide/Week%2009%20-%20Basis%20Data/Dosko/Installer/Windows.zip"  target="_blank">- Windows</a><br>
+    <a href="https://github.com/irfanradarma/TABK-STAN/raw/main/2024/slide/Week%2009%20-%20Basis%20Data/Dosko/Installer/SQL%20MacOS.pptx"  target="_blank">- Guide MacOS</a></td>
     <td></td>
   </tr>
     <tr>
