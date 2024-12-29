@@ -112,7 +112,7 @@ by Teuku Raja Irfan Radarma
     <td>Unduh aplikasi untuk praktikum:<br>
     <a href="https://github.com/irfanradarma/TABK-STAN/raw/main/2024/slide/Week%2009%20-%20Basis%20Data/Dosko/Installer/Windows.zip"  target="_blank">- Windows</a><br>
     <a href="https://github.com/irfanradarma/TABK-STAN/raw/main/2024/slide/Week%2009%20-%20Basis%20Data/Dosko/Installer/SQL%20MacOS.pptx"  target="_blank">- Guide MacOS</a></td>
-    <td></td>
+    <td><a href="https://forms.gle/vsCtkFeo1CsYyyJY6" target="_blank">Tugas VII: Intro to Query</a></td>
   </tr>
     <tr>
     <td>10</td>
