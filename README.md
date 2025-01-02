@@ -118,9 +118,13 @@ by Teuku Raja Irfan Radarma
     <td>10</td>
     <td>Basis Data II</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan01.sql" target="_blank">Data Latihan 1</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan02.sql" target="_blank">Data Latihan 2</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/lspotify_data.sql" target="_blank">Spotify Data</a><br>
+    - Round I<br>
+    - Round II<br>
+    - Round III</td>
+    <td>Tugas VIII: More Queries</td>
   </tr>
     <tr>
     <td>11</td>

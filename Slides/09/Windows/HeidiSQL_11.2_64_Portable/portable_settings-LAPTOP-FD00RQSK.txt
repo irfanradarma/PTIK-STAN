@@ -1,0 +1,286 @@
+ColWidths_connform.ListSessions<|||>1<|||>120,72,50,50,50,50,52
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,163
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>PTIK
+LastActiveSession<|||>1<|||>PTIK
+SessionManager_ListWidth<|||>3<|||>298
+SessionManager_WindowWidth<|||>3<|||>858
+SessionManager_WindowLeft<|||>3<|||>251
+SessionManager_WindowTop<|||>3<|||>145
+FileDialogEncoding_MainForm<|||>3<|||>0
+querymemoheight<|||>3<|||>203
+MainWinMaximized<|||>3<|||>0
+FontSize<|||>3<|||>17
+DataFontSize<|||>3<|||>13
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+dbtreewidth<|||>3<|||>261
+SQLFile0<|||>1<|||>C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2023-10-28_13-06-38-363.sql
+SQLFile1<|||>1<|||>C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2023-10-28_11-01-52-751.sql
+SQLFile2<|||>1<|||>C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2023-10-25_15-20-45-520.sql
+SQLFile3<|||>1<|||>C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2023-10-25_15-17-45-525.sql
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+Servers\PTIK\SessionCreated<|||>1<|||>2023-10-21 11:00:25
+Servers\PTIK\Host<|||>1<|||>127.0.0.1
+Servers\PTIK\WindowsAuth<|||>3<|||>0
+Servers\PTIK\CleartextPluginEnabled<|||>3<|||>0
+Servers\PTIK\User<|||>1<|||>root
+Servers\PTIK\Password<|||>1<|||>2
+Servers\PTIK\LoginPrompt<|||>3<|||>0
+Servers\PTIK\Port<|||>1<|||>3306
+Servers\PTIK\NetType<|||>3<|||>0
+Servers\PTIK\Compressed<|||>3<|||>0
+Servers\PTIK\LocalTimeZone<|||>3<|||>0
+Servers\PTIK\QueryTimeout<|||>3<|||>30
+Servers\PTIK\KeepAlive<|||>3<|||>20
+Servers\PTIK\FullTableStatus<|||>3<|||>1
+Servers\PTIK\Databases<|||>1<|||>
+Servers\PTIK\Library<|||>1<|||>libmariadb.dll
+Servers\PTIK\Comment<|||>1<|||>
+Servers\PTIK\StartupScriptFilename<|||>1<|||>
+Servers\PTIK\TreeBackground<|||>3<|||>536870911
+Servers\PTIK\SSHtunnelHost<|||>1<|||>
+Servers\PTIK\SSHtunnelHostPort<|||>3<|||>22
+Servers\PTIK\SSHtunnelUser<|||>1<|||>
+Servers\PTIK\SSHtunnelPassword<|||>1<|||>1
+Servers\PTIK\SSHtunnelTimeout<|||>3<|||>4
+Servers\PTIK\SSHtunnelPrivateKey<|||>1<|||>
+Servers\PTIK\SSHtunnelPort<|||>3<|||>3307
+Servers\PTIK\SSL_Active<|||>3<|||>0
+Servers\PTIK\SSL_Key<|||>1<|||>
+Servers\PTIK\SSL_Cert<|||>1<|||>
+Servers\PTIK\SSL_CA<|||>1<|||>
+Servers\PTIK\SSL_Cipher<|||>1<|||>
+Servers\PTIK\IgnoreDatabasePattern<|||>1<|||>
+Servers\PTIK\RefusedCount<|||>3<|||>5
+Servers\PTIK\ServerVersionFull<|||>1<|||>5.5.13 - MySQL Community Server (GPL)
+Servers\PTIK\ConnectCount<|||>3<|||>7
+Servers\PTIK\ServerVersion<|||>3<|||>50513
+Servers\PTIK\LastConnect<|||>1<|||>2024-11-15 17:32:14
+Servers\PTIK\lastUsedDB<|||>1<|||>lat_spotify
+Servers\PTIK\QueryHistory\2<|||>1<|||>2023-10-25 14:06:39||31|SELECT AVG(debet) FROM latihan.jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\3<|||>1<|||>2023-10-25 14:08:05||47|SELECT SUM(debet) FROM latihan.jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\4<|||>1<|||>2023-10-25 14:08:20||47|SELECT * FROM latihan.jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\1<|||>1<|||>2023-10-25 14:09:04||15|SELECT * FROM latihan.bagan_akun
+Servers\PTIK\QueryHistory\5<|||>1<|||>2023-10-25 14:09:51||31|SELECT AVG(debet) <{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>WHERE kode_akun = 62003
+Servers\PTIK\QueryHistory\6<|||>1<|||>2023-10-25 14:10:22||31|SELECT AVG(debet) AS biayaListrik<{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>WHERE kode_akun = 62003
+Servers\PTIK\QueryHistory\7<|||>1<|||>2023-10-25 14:10:31||32|SELECT AVG(debet) biayaListrik<{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>WHERE kode_akun = 62003
+Servers\PTIK\QueryHistory\8<|||>1<|||>2023-10-25 14:10:35||31|SELECT AVG(debet) namalain<{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>WHERE kode_akun = 62003
+Servers\PTIK\QueryHistory\9<|||>1<|||>2023-10-25 14:10:44||31|SELECT AVG(debet)<{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>WHERE kode_akun = 62003
+Servers\PTIK\QueryHistory\10<|||>1<|||>2023-10-25 14:11:55||31|SELECT * FROM latihan.jurnal2019
+Servers\PTIK\QueryHistory\11<|||>1<|||>2023-10-25 14:12:10||31|SELECT SUM(debet) DEBET FROM latihan.jurnal2019
+Servers\PTIK\QueryHistory\12<|||>1<|||>2023-10-25 14:12:32||31|SELECT SUM(debet) DEBET <{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>GROUP BY kode_akun
+Servers\PTIK\QueryHistory\14<|||>1<|||>2023-10-25 14:12:55||32|SELECT kode_akun, SUM(debet) DEBET <{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\15<|||>1<|||>2023-10-25 14:13:01||32|SELECT kode_akun, SUM(debet) DEBET <{{{><}}}>FROM latihan.jurnal2019<{{{><}}}>GROUP BY kode_akun
+Servers\PTIK\QueryHistory\17<|||>1<|||>2023-10-25 15:21:57|latihan|31|SELECT NO_BUKTI, KODE_AKUN, DEBET, KETERANGAN FROM JURNAL2019
+Servers\PTIK\QueryHistory\19<|||>1<|||>2023-10-25 15:23:37|latihan|32|SELECT * FROM jurnal2019<{{{><}}}>WHERE No_BUKTI = 'JV 0123'
+Servers\PTIK\QueryHistory\13<|||>1<|||>2023-10-25 15:25:53|latihan|47|SELECT SUM(debet) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\21<|||>1<|||>2023-10-25 15:26:08|latihan|16|SELECT SUM(kredit) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\22<|||>1<|||>2023-10-25 15:26:21|latihan|15|SELECT SUM(debet), SUM(kredit) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\23<|||>1<|||>2023-10-25 15:27:00|latihan|31|SELECT SUM(debet) AS DEBET, SUM(kredit) AS KREDIT FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\24<|||>1<|||>2023-10-25 15:27:14|latihan|79|SELECT SUM(debet) DEBET, SUM(kredit) KREDIT FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\25<|||>1<|||>2023-10-25 15:27:35|latihan|31|SELECT MAX(kredit) KREDIT FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\26<|||>1<|||>2023-10-25 15:28:08|latihan|0|SELECT count(kredit) KREDIT FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\28<|||>1<|||>2023-10-25 15:28:42|latihan|31|SELECT SUM(DEBET) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\27<|||>1<|||>2023-10-25 15:29:14|latihan|31|SELECT kode_akun, SUM(debet) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\30<|||>1<|||>2023-10-25 15:29:28|latihan|47|SELECT kode_akun, SUM(debet) FROM jurnal2019<{{{><}}}>GROUP BY kode_akun<{{{><}}}>
+Servers\PTIK\QueryHistory\31<|||>1<|||>2023-10-25 15:29:54|latihan|63|SELECT kode_akun, SUM(debet) FROM jurnal2019<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY kode_akun<{{{><}}}>
+Servers\PTIK\QueryHistory\16<|||>1<|||>2023-10-25 15:32:16|latihan|47|SELECT AVG(debet) DEBET, AVG(kredit) KREDIT FROM jurnal2019<{{{><}}}>WHERE kode_akun = 62003<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\34<|||>1<|||>2023-10-25 15:33:03|latihan|31|SELECT * FROM jurnal2019<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\32<|||>1<|||>2023-10-25 15:33:48|latihan|31|SELECT COUNT(keterangan) FROM jurnal2019<{{{><}}}>WHERE keterangan = 'Pembelian Kredit'<{{{><}}}>
+Servers\PTIK\QueryHistory\35<|||>1<|||>2023-10-25 15:35:56|latihan|31|SELECT SUM(debet) FROM jurnal2019<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\36<|||>1<|||>2023-10-25 15:36:15|latihan|16|SELECT SUM(debet) RAFLY FROM jurnal2019<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\20<|||>1<|||>2023-10-26 12:50:44|latihan|47|SELECT MONTH(tgl) BULAN, kode_akun, SUM(debet) SALDO<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE kode_akun LIKE '11%'<{{{><}}}>GROUP BY MONTH(tgl), kode_akun
+Servers\PTIK\QueryHistory\37<|||>1<|||>2023-10-26 13:02:34|latihan|47|SELECT * FROM jurnal2019<{{{><}}}>WHERE kode_akun > 1
+Servers\PTIK\QueryHistory\39<|||>1<|||>2023-10-26 13:02:51|latihan|63|SELECT * FROM jurnal2019<{{{><}}}>WHERE no_bukti > 1
+Servers\PTIK\QueryHistory\40<|||>1<|||>2023-10-26 13:03:02|latihan|63|SELECT * FROM jurnal2019<{{{><}}}>WHERE no_bukti > 'J'
+Servers\PTIK\QueryHistory\41<|||>1<|||>2023-10-26 13:03:08|latihan|62|SELECT * FROM jurnal2019<{{{><}}}>WHERE no_bukti > 'K'
+Servers\PTIK\QueryHistory\42<|||>1<|||>2023-10-26 13:03:11|latihan|62|SELECT * FROM jurnal2019<{{{><}}}>WHERE no_bukti > 'G'
+Servers\PTIK\QueryHistory\43<|||>1<|||>2023-10-26 13:03:44|latihan|62|SELECT * FROM jurnal2019<{{{><}}}>WHERE tgl = '2019-01-01'
+Servers\PTIK\QueryHistory\45<|||>1<|||>2023-10-26 13:03:53|latihan|62|SELECT * FROM jurnal2019<{{{><}}}>WHERE tgl = 2019-01-02
+Servers\PTIK\QueryHistory\46<|||>1<|||>2023-10-26 13:03:57|latihan|47|SELECT * FROM jurnal2019<{{{><}}}>WHERE tgl = '2019-01-02'
+Servers\PTIK\QueryHistory\38<|||>1<|||>2023-10-26 14:02:15|latihan|93|SELECT * FROM jurnal2019<{{{><}}}>ORDER BY debet DESC
+Servers\PTIK\QueryHistory\44<|||>1<|||>2023-10-26 14:07:36|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan != 'Saldo Awal'<{{{><}}}>ORDER BY debet DESC<{{{><}}}>
+Servers\PTIK\QueryHistory\49<|||>1<|||>2023-10-26 14:07:47|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan != 'Saldo Awal'<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\50<|||>1<|||>2023-10-26 14:07:54|latihan|46|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan <> 'Saldo Awal'<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\51<|||>1<|||>2023-10-26 14:08:33|latihan|47|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan NOT IN ('Saldo Awal', 'Setoran Modal')<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\52<|||>1<|||>2023-10-26 14:11:51|latihan|47|SELECT no_bukti, MAX(kredit) FROM jurnal2019
+Servers\PTIK\QueryHistory\33<|||>1<|||>2023-10-26 14:19:16|latihan|0|SELECT * FROM bagan_akun
+Servers\PTIK\QueryHistory\29<|||>1<|||>2023-10-26 14:21:38|latihan|93|SELECT a.tgl, a.kode_akun, a.debet, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b<{{{><}}}>ON a.kode_akun = b.kode
+Servers\PTIK\QueryHistory\54<|||>1<|||>2023-10-26 14:22:11|latihan|16|SELECT a.tgl, a.kode_akun, a.debet, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b<{{{><}}}>ON a.kode_akun = b.kode<{{{><}}}>ORDER BY debet<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\55<|||>1<|||>2023-10-26 14:22:19|latihan|47|SELECT a.tgl, a.kode_akun, a.debet, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b<{{{><}}}>ON a.kode_akun = b.kode<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\56<|||>1<|||>2023-10-26 14:24:18|latihan|47|SELECT a.tgl, a.kode_akun, a.debet, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b<{{{><}}}>ON a.kode_akun = b.kode<{{{><}}}>WHERE keterangan NOT IN ('Saldo Awal', 'Setoran Modal')<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\57<|||>1<|||>2023-10-26 14:29:03|latihan|47|SELECT MONTH(tgl), SUM(debet) JML_DEBET, SUM(kredit) JML_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)
+Servers\PTIK\QueryHistory\58<|||>1<|||>2023-10-26 14:29:09|latihan|31|SELECT MONTH(tgl) BULAN, SUM(debet) JML_DEBET, SUM(kredit) JML_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)
+Servers\PTIK\QueryHistory\59<|||>1<|||>2023-10-26 14:29:22|latihan|46|SELECT MONTH(tgl) BULAN, SUM(debet) JML_DEBET, SUM(kredit) JML_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\60<|||>1<|||>2023-10-26 14:33:53|latihan|31|SELECT MONTH(tgl) BULAN, kode_akun, MAX(debet) DEBIT, MAX(kredit) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\61<|||>1<|||>2023-10-26 14:36:38|latihan|78|SELECT MONTH(a.tgl) BULAN, a.kode_akun, MAX(a.debet) DEBIT, MAX(a.kredit) KREDIT, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\62<|||>1<|||>2023-10-26 14:37:05|latihan|63|SELECT MONTH(a.tgl) BULAN, a.kode_akun, MAX(a.debet) DEBIT, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\63<|||>1<|||>2023-10-26 14:37:54|latihan|32|SELECT MONTH(tgl) BULAN, kode_akun, MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019 <{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\64<|||>1<|||>2023-10-26 14:40:35|latihan|78|SELECT a.kode_akun, b.nama_akun, SUM(debet) DEBIT, SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY a.kode_akun
+Servers\PTIK\QueryHistory\65<|||>1<|||>2023-10-26 14:40:48|latihan|62|SELECT a.kode_akun, b.nama_akun, SUM(debet) DEBIT, SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY a.kode_akun<{{{><}}}>ORDER BY a.kode_akun
+Servers\PTIK\QueryHistory\66<|||>1<|||>2023-10-26 15:46:31|latihan|31|SELECT kode_akun, SUM(debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019
+Servers\PTIK\QueryHistory\67<|||>1<|||>2023-10-26 15:46:48|latihan|15|SELECT kode_akun, SUM(debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 1
+Servers\PTIK\QueryHistory\68<|||>1<|||>2023-10-26 15:52:15|latihan|31|SELECT a.kode_akun, b.nama_akun, SUM(a.debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>WHERE MONTH(a.tgl) = 1
+Servers\PTIK\QueryHistory\69<|||>1<|||>2023-10-26 15:54:42|latihan|31|SELECT a.kode_akun, b.nama_akun, SUM(a.debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>WHERE MONTH(a.tgl) = 1<{{{><}}}>GROUP BY a.kode_akun
+Servers\PTIK\QueryHistory\70<|||>1<|||>2023-10-26 15:55:36|latihan|31|SELECT a.kode_akun, b.nama_akun, SUM(a.debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>WHERE MONTH(a.tgl) = 1<{{{><}}}>GROUP BY a.kode_akun<{{{><}}}>ORDER BY SALDO_DEBET DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\71<|||>1<|||>2023-10-26 15:56:10|latihan|31|SELECT kode_akun, SUM(debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 <{{{><}}}>WHERE MONTH(tgl) = 1<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY SALDO_DEBET DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\72<|||>1<|||>2023-10-26 15:57:12|latihan|16|SELECT kode_akun, SUM(debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 <{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY SALDO_DEBET DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\73<|||>1<|||>2023-10-26 15:59:28|latihan|31|SELECT a.kode_akun, b.nama_akun, SUM(a.debet) SALDO_DEBET<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>WHERE MONTH(a.tgl) = 11<{{{><}}}>GROUP BY a.kode_akun<{{{><}}}>ORDER BY SALDO_DEBET DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\74<|||>1<|||>2023-10-28 10:29:41|latihan|0|SELECT * FROM bagan_akun<{{{><}}}>
+Servers\PTIK\QueryHistory\77<|||>1<|||>2023-10-28 10:37:16|latihan|15|SELECT kode_akun, debet, kredit FROM jurnal2019<{{{><}}}>WHERE kode_akun LIKE '1%'
+Servers\PTIK\QueryHistory\76<|||>1<|||>2023-10-28 10:37:38|latihan|16|SELECT kode_akun, debet, kredit FROM jurnal2019 WHERE kode_akun LIKE '1%'
+Servers\PTIK\QueryHistory\78<|||>1<|||>2023-10-28 10:37:48|latihan|15|SELECT kode_akun,<{{{><}}}>debet,<{{{><}}}>kredit FROM jurnal2019 WHERE kode_akun LIKE '1%'
+Servers\PTIK\QueryHistory\79<|||>1<|||>2023-10-28 10:38:18|latihan|31|SELECT kode_akun, debet, kredit<{{{><}}}>FROM jurnal2019 <{{{><}}}>WHERE kode_akun LIKE '1%'
+Servers\PTIK\QueryHistory\80<|||>1<|||>2023-10-28 10:41:04|latihan|0|SELECT * FROM jurnal2019 LIMIT 1, 6;
+Servers\PTIK\QueryHistory\82<|||>1<|||>2023-10-28 10:42:39|latihan|31|SELECT * FROM jurnal2019 <{{{><}}}>ORDER BY DEBET<{{{><}}}>LIMIT 6
+Servers\PTIK\QueryHistory\83<|||>1<|||>2023-10-28 10:42:47|latihan|32|SELECT * FROM jurnal2019 <{{{><}}}>ORDER BY DEBET DESC<{{{><}}}>LIMIT 6
+Servers\PTIK\QueryHistory\84<|||>1<|||>2023-10-28 10:46:20|latihan|16|SELECT<{{{><}}}>SUM(DEBET),<{{{><}}}>SUM(KREDIT)<{{{><}}}>FROM jurnal2019;<{{{><}}}>
+Servers\PTIK\QueryHistory\85<|||>1<|||>2023-10-28 10:46:31|latihan|15|SELECT<{{{><}}}>SUM(DEBET) AS DEBET,<{{{><}}}>SUM(KREDIT) AS KREDIT<{{{><}}}>FROM jurnal2019;<{{{><}}}>
+Servers\PTIK\QueryHistory\81<|||>1<|||>2023-10-28 10:46:43|latihan|16|SELECT<{{{><}}}>SUM(DEBET) DEBET,<{{{><}}}>SUM(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019;<{{{><}}}>
+Servers\PTIK\QueryHistory\86<|||>1<|||>2023-10-28 10:50:25|latihan|47|SELECT KODE_AKUN, SUM(DEBET) DEBET, SUM(KREDIT) KREDIT FROM jurnal2019 GROUP BY KODE_AKUN<{{{><}}}>
+Servers\PTIK\QueryHistory\88<|||>1<|||>2023-10-28 10:53:20|latihan|32|SELECT KODE_AKUN, SUM(DEBET) DEBET, SUM(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\89<|||>1<|||>2023-10-28 10:53:38|latihan|31|SELECT KODE_AKUN, SUM(DEBET) DEBET, SUM(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}>ORDER BY KODE_AKUN<{{{><}}}>
+Servers\PTIK\QueryHistory\87<|||>1<|||>2023-10-28 10:54:23|latihan|15|SELECT KODE_AKUN, SUM(DEBET) DEBET, SUM(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}>ORDER BY KODE_AKUN <{{{><}}}>
+Servers\PTIK\QueryHistory\90<|||>1<|||>2023-10-28 10:59:31|latihan|62|SELECT KODE_AKUN, SUM(DEBET) DEBET, SUM(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}>ORDER BY KODE_AKUN;<{{{><}}}>SELECT SUM(debet) debet, SUM(kredit) kredit FROM jurnal2019 MONTH;
+Servers\PTIK\QueryHistory\91<|||>1<|||>2023-10-28 10:59:55|latihan|31|<{{{><}}}>SELECT SUM(debet) debet, SUM(kredit) kredit FROM jurnal2019 MONTH;
+Servers\PTIK\QueryHistory\92<|||>1<|||>2023-10-28 11:01:21|latihan|31|SELECT month(tgl) as bulan,SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)
+Servers\PTIK\QueryHistory\93<|||>1<|||>2023-10-28 11:02:02|latihan|16|SELECT * FROM jurnal2019
+Servers\PTIK\QueryHistory\53<|||>1<|||>2023-10-28 11:02:28|latihan|32|SELECT month(tgl) as bulan,SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY bulan 
+Servers\PTIK\QueryHistory\95<|||>1<|||>2023-10-28 11:03:25|latihan|32|SELECT  SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY month(tgl) 
+Servers\PTIK\QueryHistory\96<|||>1<|||>2023-10-28 11:03:30|latihan|31|SELECT month(tgl) as bulan, SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY month(tgl) 
+Servers\PTIK\QueryHistory\94<|||>1<|||>2023-10-28 11:04:00|latihan|32|SELECT month(tgl) as bulan, SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY day(tgl) 
+Servers\PTIK\QueryHistory\97<|||>1<|||>2023-10-28 11:04:09|latihan|16|SELECT day(tgl) as tgl, SUM(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY day(tgl) 
+Servers\PTIK\QueryHistory\98<|||>1<|||>2023-10-28 11:05:24|latihan|32|SELECT MONTH(tgl) as BULAN, sum(debet) debet, SUM(kredit) kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\99<|||>1<|||>2023-10-28 11:09:03|latihan|31|SELECT MONTH(TGL)  BULAN, COUNT(DEBET) DEBET, COUNT(KREDIT) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\47<|||>1<|||>2023-10-28 12:01:46|latihan|16|SELECT DAY(tgl) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\101<|||>1<|||>2023-10-28 12:01:54|latihan|31|SELECT month(tgl) FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\102<|||>1<|||>2023-10-28 12:19:06|latihan|46|SELECT * FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\100<|||>1<|||>2023-10-28 12:30:09|latihan|16|SELECT kode_akun, debet, kredit FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\75<|||>1<|||>2023-10-28 12:33:44|latihan|15|<{{{><}}}>SELECT kode_akun,debet,kredit FROM jurnal2019 WHERE kode_akun LIKE '1%';
+Servers\PTIK\QueryHistory\103<|||>1<|||>2023-10-28 12:37:38|latihan|47|SELECT kode_akun,debet,kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE kode_akun LIKE '1%';<{{{><}}}>SELECT debet FROM jurnal2019<{{{><}}}>ORDER BY(debet) DESC LIMIT 6;
+Servers\PTIK\QueryHistory\105<|||>1<|||>2023-10-28 12:38:24|latihan|16|SELECT debet FROM jurnal2019<{{{><}}}>ORDER BY(debet) DESC LIMIT 6;
+Servers\PTIK\QueryHistory\104<|||>1<|||>2023-10-28 12:39:42|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>ORDER BY(debet) DESC LIMIT 6;
+Servers\PTIK\QueryHistory\106<|||>1<|||>2023-10-28 12:44:19|latihan|32|SELECT SUM(debet) DEBIT, SUM(KREDIT) KREDIT FROM JURNAL2019
+Servers\PTIK\QueryHistory\107<|||>1<|||>2023-10-28 12:50:07|latihan|32|SELECT<{{{><}}}>	KODE_AKUN,<{{{><}}}>	SUM(DEBET) AS DEBET,<{{{><}}}>	SUM(KREDIT) AS KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN;
+Servers\PTIK\QueryHistory\109<|||>1<|||>2023-10-28 12:50:55|latihan|16|SELECT<{{{><}}}>	KODE_AKUN,<{{{><}}}>	SUM(DEBET) AS DEBET,<{{{><}}}>	SUM(KREDIT) AS KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}>;
+Servers\PTIK\QueryHistory\110<|||>1<|||>2023-10-28 12:51:23|latihan|31|SELECT<{{{><}}}>	KODE_AKUN,<{{{><}}}>	SUM(DEBET) AS DEBET,<{{{><}}}>	SUM(KREDIT) AS KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY KODE_AKUN<{{{><}}}>ORDER BY KODE_AKUN;
+Servers\PTIK\QueryHistory\108<|||>1<|||>2023-10-28 12:55:28|latihan|16|SELECT MONTH(tgl),SUM(debet), SUM(kredit) FROM jurnal2019<{{{><}}}>	GROUP BY MONTH(tgl);
+Servers\PTIK\QueryHistory\111<|||>1<|||>2023-10-28 12:56:42|latihan|31|SELECT <{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	SUM(debet) DEBIT,<{{{><}}}>	SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl);
+Servers\PTIK\QueryHistory\112<|||>1<|||>2023-10-28 13:00:30|latihan|31|SELECT <{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	COUNT(debet) DEBIT,<{{{><}}}>	COUNT(kredit) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl);
+Servers\PTIK\QueryHistory\113<|||>1<|||>2023-10-28 13:08:32|latihan|47|SELECT * FROM bagan_akun AS A JOIN jurnal2019 AS B ON A.kode = B.kode_akun
+Servers\PTIK\QueryHistory\114<|||>1<|||>2023-10-28 13:10:05|latihan|63|SELECT A.kode_akun, B.nama_akun, A.debet, A.kredit<{{{><}}}>FROM bagan_akun AS B JOIN jurnal2019 AS A ON B.kode = A.kode_akun
+Servers\PTIK\QueryHistory\116<|||>1<|||>2023-11-02 08:48:42|latihan|15|SELECT * FROM jurnal2019<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\48<|||>1<|||>2023-11-02 08:48:45|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 0,5
+Servers\PTIK\QueryHistory\115<|||>1<|||>2023-11-02 08:49:41|latihan|31|SELECT tgl, no_bukti, kode_akun, MAX(debet) as debet, kredit, keterangan <{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY debet <{{{><}}}>ORDER BY debet DESC <{{{><}}}>LIMIT 5    
+Servers\PTIK\QueryHistory\117<|||>1<|||>2023-11-02 08:50:24|latihan|32|SELECT tgl, no_bukti, kode_akun, MAX(debet) as debet, kredit, keterangan <{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY debet <{{{><}}}>ORDER BY debet DESC <{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\120<|||>1<|||>2023-11-02 08:51:25|latihan|32|SELECT tgl, no_bukti, kode_akun, debet, kredit, keterangan <{{{><}}}>FROM jurnal2019<{{{><}}}>ORDER BY debet DESC <{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\118<|||>1<|||>2023-11-02 08:51:28|latihan|32|SELECT tgl, no_bukti, kode_akun, debet, kredit, keterangan<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE tgl = '2019-01-01' <{{{><}}}>ORDER BY 4 DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\119<|||>1<|||>2023-11-02 08:53:04|latihan|15|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan != 'Saldo Awal'<{{{><}}}>AND keterangan != 'Setoran Modal'<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\121<|||>1<|||>2023-11-02 08:55:15|latihan|16|SELECT * FROM jurnal2019<{{{><}}}>WHERE keterangan LIKE '%Kas%'<{{{><}}}>ORDER BY(debet) DESC<{{{><}}}>LIMIT 5;
+Servers\PTIK\QueryHistory\123<|||>1<|||>2023-11-02 08:57:01|latihan|16|SELECT * FROM JURNAL2019<{{{><}}}>WHERE keterangan NOT LIKE 'Setoran Modal%' and keterangan NOT LIKE 'Saldo Awal%' <{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5 
+Servers\PTIK\QueryHistory\124<|||>1<|||>2023-11-02 08:57:04|latihan|31|SELECT * FROM JURNAL2019<{{{><}}}>WHERE keterangan NOT LIKE 'Setoran Modal%' and keterangan NOT LIKE 'Saldo Awal%' <{{{><}}}>GROUP BY no_bukti<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 5 
+Servers\PTIK\QueryHistory\122<|||>1<|||>2023-11-02 09:00:11|latihan|32|SELECT TGL, KODE_AKUN, DEBET, NAMA_AKUN<{{{><}}}>FROM JURNAL2019<{{{><}}}>JOIN BAGAN_AKUN<{{{><}}}>ON KODE_AKUN = KODE<{{{><}}}>WHERE KETERANGAN NOT IN ('SALDO AWAL', 'SETORAN MODAL')<{{{><}}}>ORDER BY DEBET DESC<{{{><}}}>LIMIT 5;
+Servers\PTIK\QueryHistory\127<|||>1<|||>2023-11-02 09:01:20|latihan|31|SELECT a. tgl, a. kode_akun, a. debet, b. nama_akun FROM jurnal2019 a left JOIN bagan_akun b ON a. kode_akun = b. kode WHERE NOT keterangan = 'Saldo Awal' AND NOT keterangan = 'Setoran Modal' ORDER BY debet DESC LIMIT 5
+Servers\PTIK\QueryHistory\125<|||>1<|||>2023-11-02 09:01:26|latihan|31|SELECT a.tgl,a.kode_akun,a.debet,b.nama_akun <{{{><}}}>FROM jurnal2019 AS a INNER JOIN bagan_akun AS B<{{{><}}}>ON a.kode_akun=kode<{{{><}}}>WHERE keterangan NOT LIKE '%awal' AND keterangan NOT LIKE '%modal'<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 0,5<{{{><}}}>
+Servers\PTIK\QueryHistory\129<|||>1<|||>2023-11-02 09:04:22|latihan|93|SELECT tgl, kode_akun, debet, nama_akun<{{{><}}}>FROM jurnal2019<{{{><}}}>a INNER JOIN bagan_akun b ON a.kredit = b.nama_akun<{{{><}}}>WHERE NOT tgl = '2019-01-01'<{{{><}}}>GROUP BY 1<{{{><}}}>ORDER BY 3 DESC<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\126<|||>1<|||>2023-11-02 09:04:30|latihan|16|SELECT a.tgl, a.kode_akun, a.debet, b.nama_akun<{{{><}}}>FROM jurnal2019 a left JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>WHERE not keterangan = 'saldo awal' AND NOT keterangan = 'setoran modal'<{{{><}}}>ORDER BY debet desc<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\131<|||>1<|||>2023-11-02 09:08:07|latihan|16|SELECT MONTH (tgl) bulan,<{{{><}}}>SUM(debet) AS JML_DEBET,<{{{><}}}>SUM(kredit) AS JML_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1;<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\128<|||>1<|||>2023-11-02 09:08:14|latihan|31|SELECT MONTH (tgl) bulan,<{{{><}}}>SUM(debet) AS JML_DEBET,<{{{><}}}>SUM(kredit) AS JML_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY bulan;<{{{><}}}><{{{><}}}>
+Servers\PTIK\QueryHistory\130<|||>1<|||>2023-11-02 09:12:12|latihan|31|SELECT MONTH(tgl) AS BULAN, kode_akun, MAX(debet) DEBIT FROM jurnal2019 GROUP BY BULAN ORDER BY debet
+Servers\PTIK\QueryHistory\132<|||>1<|||>2023-11-02 09:35:55|latihan|94|select month(tgl) bulan, a.kode_akun, max(debet) debit, b.`nama_akun`<{{{><}}}>from jurnal2019 as a<{{{><}}}>join bagan_akun as b<{{{><}}}>on a.kode_akun=b.kode<{{{><}}}>group by bulan
+Servers\PTIK\QueryHistory\133<|||>1<|||>2023-11-02 10:08:45|latihan|79|SELECT kode_akun, MAX(kredit) SALDO_KREDIT FROM JURNAL2019
+Servers\PTIK\QueryHistory\136<|||>1<|||>2023-11-02 10:11:09|latihan|31|SELECT kode_akun, MAX(kredit) SALDO_KREDIT FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11
+Servers\PTIK\QueryHistory\134<|||>1<|||>2023-11-02 10:11:42|latihan|46|SELECT kode_akun, MAX(debet) SALDO_KREDIT FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11
+Servers\PTIK\QueryHistory\135<|||>1<|||>2023-11-02 10:12:14|latihan|79|SELECT kode_akun, nama_akun, MAX(kredit) SALDO_KREDIT <{{{><}}}>FROM jurnal2019 JOIN bagan_akun ON kode_akun=kode<{{{><}}}>WHERE MONTH(tgl) = 11
+Servers\PTIK\QueryHistory\137<|||>1<|||>2023-11-02 13:45:53|latihan|32|SELECT (TGL), no_bukti, kode_akun, MAX(DEBET) DEBET, KREDIT, KETERANGAN<{{{><}}}>from jurnal2019<{{{><}}}>order by kode_akun desc<{{{><}}}>limit 5
+Servers\PTIK\QueryHistory\138<|||>1<|||>2023-11-02 13:46:13|latihan|31|SELECT tgl, no_bukti, kode_akun, MAX(debet) AS debet,kredit, keterangan<{{{><}}}>FROM jurnal2019<{{{><}}}>group by debet<{{{><}}}>ORDER BY debet desc<{{{><}}}>LIMIT 5
+Servers\PTIK\QueryHistory\139<|||>1<|||>2023-11-02 13:48:35|latihan|31|SELECT MONTH(tgl) bulan, kode_akun, sum(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 <{{{><}}}>GROUP BY bulan='11'<{{{><}}}>ORDER BY kredit DESC LIMIT 1;
+Servers\PTIK\QueryHistory\140<|||>1<|||>2023-11-02 13:48:42|latihan|47|SELECT kode_akun, MAX(kredit) AS SALDO_KREDIT  FROM jurnal2019<{{{><}}}>GROUP BY MONTH(TGL) = '11'<{{{><}}}>ORDER BY MONTH(tgl) = '11' DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\141<|||>1<|||>2023-11-02 13:48:51|latihan|47|SELECT kode_akun, <{{{><}}}>SUM(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY kode_akun <{{{><}}}>ORDER BY saldo_kredit desc<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\143<|||>1<|||>2023-11-02 13:51:59|latihan|31|SELECT kode_akun, max(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl)='11'<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY SALDO_KREDIT desc<{{{><}}}>LIMIT 1;
+Servers\PTIK\QueryHistory\144<|||>1<|||>2023-11-02 13:53:10|latihan|31|SELECT KODE_AKUN, SUM(KREDIT) AS SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11 <{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY sum(KREDIT) DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\146<|||>1<|||>2023-11-02 13:53:58|latihan|15|SELECT kode_akun, SUM(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl)= '11'<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY saldo_kredit DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\149<|||>1<|||>2023-11-02 13:57:28|latihan|32|SELECT MONTH(tgl) Bulan,kode_akun, MAX(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019 <{{{><}}}>GROUP BY bulan<{{{><}}}>LIMIT 10,11
+Servers\PTIK\QueryHistory\150<|||>1<|||>2023-11-02 15:00:08|latihan|109|SELECT a.kode_akun, b.nama_akun, MAX(a.kredit) AS SALDO_KREDIT <{{{><}}}>FROM jurnal2019 AS a INNER JOIN bagan_akun AS b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY MONTH(TGL) = '11'<{{{><}}}>ORDER BY MONTH(tgl) = '11' DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\151<|||>1<|||>2023-11-02 15:00:29|latihan|156|SELECT MONTH(tgl) bulan, a.kode_akun, b.nama_akun, sum(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 a JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY bulan='11'<{{{><}}}>ORDER BY kredit DESC LIMIT 1;
+Servers\PTIK\QueryHistory\153<|||>1<|||>2023-11-02 15:00:44|latihan|109|SELECT MONTH(tgl) bulan, a.kode_akun, b.nama_akun, sum(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 a JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY bulan=11<{{{><}}}>ORDER BY kredit DESC LIMIT 1;
+Servers\PTIK\QueryHistory\154<|||>1<|||>2023-11-02 15:00:49|latihan|109|SELECT MONTH(tgl) bulan, a.kode_akun, b.nama_akun, sum(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 a JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY bulan<{{{><}}}>ORDER BY kredit DESC LIMIT 1;
+Servers\PTIK\QueryHistory\152<|||>1<|||>2023-11-02 15:01:07|latihan|63|SELECT * FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11
+Servers\PTIK\QueryHistory\155<|||>1<|||>2023-11-02 15:01:21|latihan|47|SELECT SUM(kredit) FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11
+Servers\PTIK\QueryHistory\156<|||>1<|||>2023-11-02 15:01:46|latihan|63|SELECT SUM(kredit) FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)=11
+Servers\PTIK\QueryHistory\157<|||>1<|||>2023-11-02 15:02:10|latihan|46|SELECT MONTH(tgl), SUM(kredit) FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)=11
+Servers\PTIK\QueryHistory\158<|||>1<|||>2023-11-02 15:02:16|latihan|78|SELECT MONTH(tgl), SUM(kredit) FROM jurnal2019<{{{><}}}>GROUP BY MONTH(tgl)='11'
+Servers\PTIK\QueryHistory\159<|||>1<|||>2023-11-02 15:02:25|latihan|94|SELECT MONTH(tgl) bulan, a.kode_akun, b.nama_akun, sum(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 a JOIN bagan_akun b ON a.kode_akun = b.kode<{{{><}}}>GROUP BY bulan='11'<{{{><}}}>ORDER BY kredit DESC
+Servers\PTIK\QueryHistory\161<|||>1<|||>2023-11-02 15:04:31|latihan|94|SELECT month(tgl), bagan_akun.kode, jurnal2019.kode_akun, jurnal2019.keterangan,<{{{><}}}>sum(kredit) AS SALDO_KREDIT<{{{><}}}>FROM jurnal2019 <{{{><}}}>inner JOIN bagan_akun ON jurnal2019.kode_akun=bagan_akun.kode<{{{><}}}>GROUP BY kode_akun<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\163<|||>1<|||>2023-11-02 15:12:47|latihan|46|select kode_akun, sum(kredit) AS saldo_debet FROM jurnal2019 JOIN bagan_akun<{{{><}}}>ON kode_akun = kode<{{{><}}}>WHERE  MONTHNAME(tgl) = 'november'<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY sum(kredit) desc<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\162<|||>1<|||>2023-11-02 15:14:45|latihan|156|SELECT b.kode_akun, max(b.kredit) saldo_kredit, a.nama_akun<{{{><}}}>FROM jurnal2019 b inner join bagan_akun a on a.kode=b.kode_akun<{{{><}}}>ORDER BY max(b.kredit) DESC
+Servers\PTIK\QueryHistory\165<|||>1<|||>2023-11-02 15:14:57|latihan|47|SELECT a.kode_akun, b.nama_akun, SUM(a.kredit) AS saldo_debet FROM jurnal2019 AS a JOIN bagan_akun AS b<{{{><}}}>ON a.kode_akun = b.kode<{{{><}}}>WHERE  MONTH(a.tgl) = 'november'<{{{><}}}>GROUP BY a.kode_akun<{{{><}}}>ORDER BY SUM(a.kredit) desc<{{{><}}}>LIMIT 1 ;
+Servers\PTIK\QueryHistory\164<|||>1<|||>2023-11-02 15:15:16|latihan|46|SELECT MONTH (tgl) AS BULAN,<{{{><}}}>kode_akun,<{{{><}}}>SUM(kredit) AS SALDO_KREDIT,<{{{><}}}>nama_akun<{{{><}}}>FROM jurnal2019<{{{><}}}>a INNER JOIN bagan_akun b ON a.no_bukti = b.nama_akun<{{{><}}}>GROUP BY 1<{{{><}}}>ORDER BY 2 DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\160<|||>1<|||>2023-11-02 15:15:24|latihan|94|SELECT MONTH('2019-11-01')november ,jurnal2019.kode_akun,bagan_akun.nama_akun,MAX(kredit) AS SALDO_KRDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>JOIN bagan_akun ON jurnal2019.kode_akun=bagan_akun.kode<{{{><}}}>GROUP BY november<{{{><}}}>ORDER BY jurnal2019.kredit<{{{><}}}>LIMIT 1;
+Servers\PTIK\QueryHistory\145<|||>1<|||>2023-11-02 15:16:40|latihan|140|SELECT a.kode_akun, b.nama_akun, MAX(a.kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019 A JOIN bagan_akun B ON a.kode_akun = b.kode<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\166<|||>1<|||>2023-11-02 15:17:51|latihan|47|SELECT kode_akun, MAX( debet ) AS SALDO_DEBET<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH( tgl ) =11<{{{><}}}>ORDER BY MONTH( tgl ) =11 DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\147<|||>1<|||>2023-11-02 15:18:11|latihan|62|SELECT kode_akun, SUM(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY MONTH (tgl)<{{{><}}}>ORDER BY kredit DESC<{{{><}}}>LIMIT 1
+Servers\PTIK\QueryHistory\148<|||>1<|||>2023-11-02 15:18:26|latihan|78|SELECT MONTH(TGL) BULAN, kode_akun, NAMA_AKUN, MAX(kredit) saldo_kredit<{{{><}}}>FROM jurnal2019 A INNER JOIN bagan_akun B<{{{><}}}>ON A.kode_akun = B.kode<{{{><}}}>WHERE MONTH(TGL) = 11
+Servers\PTIK\QueryHistory\167<|||>1<|||>2023-11-02 15:18:42|latihan|47|select kode_akun, max(kredit) saldo_kredit from jurnal2019
+Servers\PTIK\QueryHistory\168<|||>1<|||>2023-11-02 15:18:55|latihan|47|SELECT MONTH(tgl)bulan,kode_akun, SUM(debet)SALDO_debet FROM jurnal2019<{{{><}}}>
+Servers\PTIK\QueryHistory\169<|||>1<|||>2023-11-02 15:20:12|latihan|156|SELECT MONTH(a.tgl) Bulan, a.kode_akun, MAX(a.kredit) SALDO_KREDIT, b.nama_akun<{{{><}}}>FROM jurnal2019 a INNER JOIN bagan_akun b ON a.kode_akun = b.kode <{{{><}}}>GROUP BY bulan<{{{><}}}>LIMIT 10,11
+Servers\PTIK\QueryHistory\170<|||>1<|||>2023-11-02 15:20:54|latihan|63|SELECT MONTH('2019-11-01')bulan,kode_akun ,max(kredit) AS saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY bulan<{{{><}}}>ORDER BY jurnal2019.kredit DESC<{{{><}}}>LIMIT 1;<{{{><}}}>
+Servers\PTIK\QueryHistory\142<|||>1<|||>2023-11-03 16:26:06|latihan|31|SELECT SUM(DEBET) D, SUM(KREDIT) K, MONTH(TGL) B<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY B
+Servers\PTIK\QueryHistory\171<|||>1<|||>2023-11-03 16:26:47|latihan|31|SELECT (SUM(DEBET) - SUM(KREDIT)) C, MONTH(TGL) B<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY B
+Servers\PTIK\QueryHistory\172<|||>1<|||>2023-11-03 16:28:05|latihan|31|SELECT * FROM JURNAL2019
+Servers\PTIK\QueryHistory\18<|||>1<|||>2023-11-03 16:29:29|latihan|31|SELECT NO_BUKTI, SUM(DEBET) D, SUM(KREDIT) K<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY NO_BUKTI<{{{><}}}>
+Servers\PTIK\QueryHistory\173<|||>1<|||>2023-11-03 16:31:06|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>WHERE NO_BUKTI = 'JV 0000' AND (DEBET = 50000 OR KREDIT = 50000)
+Servers\PTIK\QueryHistory\174<|||>1<|||>2023-11-03 16:31:16|latihan|31|SELECT * FROM jurnal2019<{{{><}}}>WHERE NO_BUKTI = 'JV 0000'
+Servers\PTIK\QueryHistory\175<|||>1<|||>2023-11-03 16:33:10|latihan|0|SELECT NO_BUKTI, KODE_AKUN, DEBET, KREDIT<{{{><}}}>FROM jurnal2019 a LEFT JOIN bagan_akun b ON kode_akun = kode<{{{><}}}>WHERE kode_akun IS NULL<{{{><}}}>
+Servers\PTIK\QueryHistory\176<|||>1<|||>2023-11-03 16:33:32|latihan|46|SELECT NO_BUKTI, KODE_AKUN, DEBET, KREDIT, NAMA_AKUN<{{{><}}}>FROM jurnal2019 a LEFT JOIN bagan_akun b ON kode_akun = kode<{{{><}}}>WHERE NAMA_AKUN IS NULL<{{{><}}}>
+Servers\PTIK\QueryHistory\177<|||>1<|||>2023-11-03 16:52:02|latihan|47|SELECT KODE_AKUN, MAX(KREDIT) SALDO_KREDIT<{{{><}}}>        FROM JURNAL2019<{{{><}}}>        GROUP BY MONTH(TGL)<{{{><}}}>        ORDER BY SALDO_KREDIT ASC<{{{><}}}>        LIMIT 1;
+Servers\PTIK\QueryHistory\179<|||>1<|||>2023-11-03 16:52:26|latihan|47|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>GROUP BY bulan<{{{><}}}>ORDER BY Saldo_kredit DESC<{{{><}}}>LIMIT 1;
+Servers\PTIK\QueryHistory\180<|||>1<|||>2023-11-03 16:52:57|latihan|47|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>ORDER BY Saldo_kredit DESC<{{{><}}}>LIMIT 1;
+Servers\PTIK\QueryHistory\181<|||>1<|||>2023-11-03 16:53:10|latihan|47|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY Saldo_kredit DESC<{{{><}}}>LIMIT 1;
+Servers\PTIK\QueryHistory\178<|||>1<|||>2023-11-03 16:53:16|latihan|31|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY Saldo_kredit DESC<{{{><}}}>LIMIT 2;
+Servers\PTIK\QueryHistory\182<|||>1<|||>2023-11-03 16:53:20|latihan|31|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY Saldo_kredit DESC
+Servers\PTIK\QueryHistory\183<|||>1<|||>2023-11-03 16:53:51|latihan|32|SELECT MONTH(tgl) BULAN, kode_akun, MAX(KREDIT) AS Saldo_kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>ORDER BY Saldo_kredit DESC
+Servers\PTIK\QueryHistory\184<|||>1<|||>2023-11-03 16:54:24|latihan|46|SELECT MONTH(tgl) BULAN, kode_akun<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>ORDER BY kredit DESC
+Servers\PTIK\QueryHistory\185<|||>1<|||>2023-11-03 16:54:30|latihan|47|SELECT MONTH(tgl) BULAN, kode_akun, kredit<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) = 11<{{{><}}}>ORDER BY kredit DESC

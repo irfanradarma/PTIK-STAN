@@ -1,0 +1,45 @@
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+241115 17:31:55 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+241115 17:31:55 [Note] Event Scheduler: Loaded 0 events
+241115 17:31:55 [Note] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+241115 17:32:14 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:14 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:14 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019_copy.frm'
+241115 17:32:16 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:16 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:18 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:18 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:18 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:18 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\jurnal2019.frm'
+241115 17:32:21 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:21 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:23 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:23 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:23 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:23 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\latihan\bagan_akun.frm'
+241115 17:32:25 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:25 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\artists.frm'
+241115 17:32:25 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\track_genre.frm'
+241115 17:32:25 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\track_stat.frm'
+241115 17:32:27 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:27 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:28 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:28 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:28 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'
+241115 17:32:28 [ERROR] C:\Users\Teuku Raja\OneDrive - Kemenkeu\PKN STAN\PTIK\2023\Praktikum\SQL\Bahan Praktikum\01. Portable.Mysql\PortableMysql\bin\mysqld.exe: Incorrect information in file: '.\lat_spotify\album.frm'

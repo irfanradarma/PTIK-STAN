@@ -1,0 +1,74 @@
+200518 17:12:52 [Note] Plugin 'FEDERATED' is disabled.
+200518 17:12:52 InnoDB: The InnoDB memory heap is disabled
+200518 17:12:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200518 17:12:52 InnoDB: Compressed tables use zlib 1.2.3
+200518 17:12:52 InnoDB: Initializing buffer pool, size = 128.0M
+200518 17:12:52 InnoDB: Completed initialization of buffer pool
+200518 17:12:52 InnoDB: Error: tablespace size must be at least 10 MB
+200518 17:12:52 [ERROR] Plugin 'InnoDB' init function returned error.
+200518 17:12:52 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+200518 20:53:37 [Note] Plugin 'FEDERATED' is disabled.
+200518 20:53:37 InnoDB: The InnoDB memory heap is disabled
+200518 20:53:37 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200518 20:53:37 InnoDB: Compressed tables use zlib 1.2.3
+200518 20:53:37 InnoDB: Initializing buffer pool, size = 128.0M
+200518 20:53:37 InnoDB: Completed initialization of buffer pool
+200518 20:53:37 InnoDB: Error: tablespace size must be at least 10 MB
+200518 20:53:37 [ERROR] Plugin 'InnoDB' init function returned error.
+200518 20:53:37 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+200518 20:53:37 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+200518 20:53:37 [Note] Event Scheduler: Loaded 0 events
+200518 20:53:37 [Note] D:\Data\TABK\week 6\Portable.Mysql.5.5.13-Very.Small\bin\mysqld.exe: ready for connections.
+Version: '5.5.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+200518 21:34:42 [Note] Plugin 'FEDERATED' is disabled.
+200518 21:34:42 InnoDB: The InnoDB memory heap is disabled
+200518 21:34:42 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200518 21:34:42 InnoDB: Compressed tables use zlib 1.2.3
+200518 21:34:42 InnoDB: Initializing buffer pool, size = 128.0M
+200518 21:34:42 InnoDB: Completed initialization of buffer pool
+200518 21:34:42 InnoDB: Error: tablespace size must be at least 10 MB
+200518 21:34:42 [ERROR] Plugin 'InnoDB' init function returned error.
+200518 21:34:42 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+200518 21:45:11 [Note] Plugin 'FEDERATED' is disabled.
+200518 21:45:11 InnoDB: The InnoDB memory heap is disabled
+200518 21:45:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200518 21:45:11 InnoDB: Compressed tables use zlib 1.2.3
+200518 21:45:11 InnoDB: Initializing buffer pool, size = 128.0M
+200518 21:45:12 InnoDB: Completed initialization of buffer pool
+200518 21:45:12 InnoDB: Error: tablespace size must be at least 10 MB
+200518 21:45:12 [ERROR] Plugin 'InnoDB' init function returned error.
+200518 21:45:12 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+200518 23:09:08 [Note] Plugin 'FEDERATED' is disabled.
+200518 23:09:08 InnoDB: The InnoDB memory heap is disabled
+200518 23:09:08 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200518 23:09:08 InnoDB: Compressed tables use zlib 1.2.3
+200518 23:09:08 InnoDB: Initializing buffer pool, size = 128.0M
+200518 23:09:08 InnoDB: Completed initialization of buffer pool
+200518 23:09:08 InnoDB: Error: tablespace size must be at least 10 MB
+200518 23:09:08 [ERROR] Plugin 'InnoDB' init function returned error.
+200518 23:09:08 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+200519 11:36:10 [Note] Plugin 'FEDERATED' is disabled.
+200519 11:36:10 InnoDB: The InnoDB memory heap is disabled
+200519 11:36:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200519 11:36:10 InnoDB: Compressed tables use zlib 1.2.3
+200519 11:36:10 InnoDB: Initializing buffer pool, size = 128.0M
+200519 11:36:10 InnoDB: Completed initialization of buffer pool
+200519 11:36:10 InnoDB: Error: tablespace size must be at least 10 MB
+200519 11:36:10 [ERROR] Plugin 'InnoDB' init function returned error.
+200519 11:36:10 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.

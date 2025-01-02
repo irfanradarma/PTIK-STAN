@@ -1,0 +1,6 @@
+SELECT 
+	MONTH(tgl) BULAN,
+	COUNT(debet) DEBIT,
+	COUNT(kredit) KREDIT
+FROM jurnal2019
+GROUP BY MONTH(tgl);
