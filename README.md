@@ -118,13 +118,15 @@ by Teuku Raja Irfan Radarma
     <td>10</td>
     <td>Basis Data II</td>
     <td></td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan01.sql" target="_blank">Data Latihan 1</a><br>
-    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan02.sql" target="_blank">Data Latihan 2</a></td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/lspotify_data.sql" target="_blank">Spotify Data</a><br>
-    - Round I<br>
-    - Round II<br>
-    - Round III</td>
-    <td>Tugas VIII: More Queries</td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan01.sql" target="_blank">- Data Latihan 1</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/latihan02.sql" target="_blank">- Data Latihan 2</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/10/spotify_data.sql" target="_blank">- Spotify Data</a></td>
+    <td>
+    <a href="https://forms.gle/4EyaebNCeLvrBYuTA" target="_blank">- Sign Up</a><br>
+    <a href="https://forms.gle/kZeYPRF3wy9dQWR77" target="_blank">- Round I</a><br>
+    <a href="https://forms.gle/a2iDhpE9AShnKz9o8" target="_blank">- Round II</a><br>
+    <a href="https://forms.gle/9EkQ1ar8QE4rVeEa6" target="_blank">- Round III</a></td>
+    <td><a href="https://forms.gle/3We9ufaTUdBmEPd6A" target="_blank">Tugas VIII: More Queries</a></td>
   </tr>
     <tr>
     <td>11</td>
