@@ -134,7 +134,7 @@ by Teuku Raja Irfan Radarma
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/11/modul%2011%20Visualisasi%20Data.zip" target="_blank">Modul Visualisasi Data</a></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/11/11.%20DataViz.pptx" target="_blank">11. DataViz</a></td>
     <td>Data untuk Kuis SQL:<br>
-    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/11/thinkers.sql" target="_blank">thinskers.sql</a><br><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/11/thinkers.sql" target="_blank">thinkers.sql</a><br><br>
     Data untuk DataViz:<br>
     <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/11/GDPGrowthRawData.xlsx" target="_blank">GDP Growth.xlsx</a><br>
     Online DataViz tool: <a href="https://flourish.studio/" target="_blank">Flourish</a></td>

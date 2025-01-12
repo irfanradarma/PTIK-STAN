@@ -175,6 +175,11 @@ Servers\PTIK\QueryHistory\1<|||>1<|||>2025-01-12 13:09:10|latihan|0|SELECT<{{{><
 Servers\PTIK\QueryHistory\2<|||>1<|||>2025-01-12 13:09:30|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
 Servers\PTIK\QueryHistory\3<|||>1<|||>2025-01-12 13:09:33|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
 Servers\PTIK\QueryHistory\5<|||>1<|||>2025-01-12 13:18:29|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN;
+Servers\PTIK\QueryHistory\4<|||>1<|||>2025-01-12 17:43:34|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR < 1800
+Servers\PTIK\QueryHistory\6<|||>1<|||>2025-01-12 17:43:45|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR <= 1800
+Servers\PTIK\QueryHistory\7<|||>1<|||>2025-01-12 17:46:12|thinkers|0|SELECT * FROM questions<{{{><}}}>WHERE q_id = '03'
+Servers\PTIK\QueryHistory\8<|||>1<|||>2025-01-12 17:47:07|thinkers|0|SELECT * FROM books WHERE id IN (SELECT books FROM questions<{{{><}}}>WHERE q_id = '03')
+Servers\PTIK\QueryHistory\9<|||>1<|||>2025-01-12 17:51:22|thinkers|0|SELECT * FROM books<{{{><}}}>WHERE topics = '08'
 Servers\Sabtu\SessionCreated<|||>1<|||>2025-01-11 09:09:41
 Servers\Sabtu\Host<|||>1<|||>127.0.0.1
 Servers\Sabtu\WindowsAuth<|||>3<|||>0
