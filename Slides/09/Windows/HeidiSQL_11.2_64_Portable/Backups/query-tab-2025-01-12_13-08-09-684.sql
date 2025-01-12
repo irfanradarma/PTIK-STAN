@@ -1,0 +1,6 @@
+SELECT
+	MONTH(tgl) BULAN,
+	kode_akun,
+	MAX(debet) DEBIT
+FROM jurnal2019
+GROUP BY BULAN;

@@ -15,7 +15,7 @@ ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
 ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
 ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
 ColSort_MainForm.ListStatus<|||>1<|||>0,0
-ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,163
 ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
 ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
 ColSort_MainForm.ListProcesses<|||>1<|||>0,1
@@ -27,14 +27,14 @@ ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,
 ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
 ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
 ColSort_MainForm.ListTables<|||>1<|||>0,0
-LastSessions<|||>1<|||>Unnamed
-LastActiveSession<|||>1<|||>Unnamed
+LastSessions<|||>1<|||>PTIK
+LastActiveSession<|||>1<|||>PTIK
 SessionManager_ListWidth<|||>3<|||>298
 SessionManager_WindowWidth<|||>3<|||>858
-SessionManager_WindowLeft<|||>3<|||>41
-SessionManager_WindowTop<|||>3<|||>79
+SessionManager_WindowLeft<|||>3<|||>299
+SessionManager_WindowTop<|||>3<|||>149
 FileDialogEncoding_MainForm<|||>3<|||>0
-querymemoheight<|||>3<|||>309
+querymemoheight<|||>3<|||>316
 MainWinMaximized<|||>3<|||>1
 FontSize<|||>3<|||>18
 DataFontSize<|||>3<|||>13
@@ -65,19 +65,73 @@ GridExportRecentFiles<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\Docum
 CSVSeparatorV2<|||>1<|||>;
 GridExportFormat<|||>3<|||>1
 GridExportSeparator<|||>1<|||>,
-SQLFile0<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK Ganjil 2023\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2024-06-25_16-03-21-247.sql
-SQLFile1<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK Ganjil 2023\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2024-06-25_15-43-51-839.sql
-SQLFile2<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK Ganjil 2023\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2024-06-25_12-43-56-087.sql
-SQLFile3<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK Ganjil 2023\Praktikum\SQL\Bahan Praktikum\HeidiSQL_11.2_64_Portable\Backups\query-tab-2024-06-04_16-01-35-966.sql
-SQLFile4<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\TABK Genap 2024\TABK-STAN\slide\Week 09 - Basis Data\Data\latihan01.sql
-SQLFile5<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\TABK Genap 2024\TABK-STAN\slide\Week 09 - Basis Data\Data\latihan02.sql
-SQLFile6<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK Ganjil 2023\Praktikum\SQL\praktikum_uts.sql
-SQLFile7<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\TABK Genap 2024\spotify_data.sql
 CSVImportDuplicateHandling<|||>3<|||>0
 CSVImportWindowWidth<|||>3<|||>660
 CSVImportIgnoreLines<|||>3<|||>1
 CSVEncloserV2<|||>1<|||>
 CSVImportFieldEscaperV2<|||>1<|||>
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr Comment Background<|||>3<|||>536870911
+SQL Attr Comment Style<|||>3<|||>2
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+Language<|||>1<|||>en
+FieldEditor_Set<|||>3<|||>1
+FilterPanel<|||>3<|||>0
+SQLFile0<|||>1<|||>C:\Users\teuku.radarma\Downloads\spotify_data.sql
+SQLFile1<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK\PTIK-STAN\Slides\09\Windows\HeidiSQL_11.2_64_Portable\Backups\query-tab-2025-01-12_13-08-09-684.sql
 Servers\PTIK\SessionCreated<|||>1<|||>2023-10-21 11:00:25
 Servers\PTIK\Host<|||>1<|||>127.0.0.1
 Servers\PTIK\WindowsAuth<|||>3<|||>0
@@ -112,96 +166,112 @@ Servers\PTIK\SSL_Cipher<|||>1<|||>
 Servers\PTIK\IgnoreDatabasePattern<|||>1<|||>
 Servers\PTIK\RefusedCount<|||>3<|||>12
 Servers\PTIK\ServerVersionFull<|||>1<|||>5.5.13 - MySQL Community Server (GPL)
-Servers\PTIK\ConnectCount<|||>3<|||>10
+Servers\PTIK\ConnectCount<|||>3<|||>13
 Servers\PTIK\ServerVersion<|||>3<|||>50513
-Servers\PTIK\LastConnect<|||>1<|||>2024-06-24 07:40:06
-Servers\PTIK\lastUsedDB<|||>1<|||>latihan1
-Servers\PTIK\QueryHistory\186<|||>1<|||>2024-06-04 12:39:05||0|SELECT *<{{{><}}}>FROM bagan_akun
-Servers\PTIK\QueryHistory\2<|||>1<|||>2024-06-04 12:52:03|latihan|16|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM jurnal2019<{{{><}}}>ORDER BY debet desc
-Servers\PTIK\QueryHistory\4<|||>1<|||>2024-06-04 12:53:42|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT *, MAX(debet)<{{{><}}}>FROM jurnal2019
-Servers\PTIK\QueryHistory\5<|||>1<|||>2024-06-04 12:54:05|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT no_bukti, MAX(debet)<{{{><}}}>FROM jurnal2019
-Servers\PTIK\QueryHistory\6<|||>1<|||>2024-06-04 12:54:11|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT no_bukti, MAX(debet) debet<{{{><}}}>FROM jurnal2019
-Servers\PTIK\QueryHistory\7<|||>1<|||>2024-06-04 12:54:18|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM jurnal2019<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 1
-Servers\PTIK\QueryHistory\3<|||>1<|||>2024-06-04 12:54:21|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM jurnal2019<{{{><}}}>ORDER BY debet DESC<{{{><}}}>LIMIT 3
-Servers\PTIK\QueryHistory\8<|||>1<|||>2024-06-04 12:55:28|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT SUM(debet), SUM(kredit)<{{{><}}}>FROM jurnal2019<{{{><}}}>
-Servers\PTIK\QueryHistory\9<|||>1<|||>2024-06-04 12:56:10|latihan|0|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT SUM(debet) SALDO_DEBIT, SUM(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>
-Servers\PTIK\QueryHistory\10<|||>1<|||>2024-06-04 12:56:16|latihan|16|-- bagan_akunno_bukti mana yang memiliki nilai debet tertinggi <{{{><}}}><{{{><}}}>SELECT SUM(debet) AS SALDO_DEBIT, SUM(kredit) SALDO_KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>
-Servers\PTIK\QueryHistory\11<|||>1<|||>2024-06-04 12:58:32|latihan|1328|SELECT kode, nama_akun, SUM(debet), SUM(kredit) FROM bagan_akun LEFT JOIN jurnal2019 ON bagan_akun.kode = jurnal2019.kode_akun GROUP BY kode
-Servers\PTIK\QueryHistory\12<|||>1<|||>2024-06-04 13:00:09|latihan|1329|SELECT kode, nama_akun, SUM(debet), SUM(kredit) <{{{><}}}>FROM bagan_akun A<{{{><}}}>	LEFT JOIN jurnal2019 B<{{{><}}}>	ON A.kode = B.kode_akun <{{{><}}}>GROUP BY kode
-Servers\PTIK\QueryHistory\13<|||>1<|||>2024-06-04 13:01:54|latihan|0|SELECT NO_BUKTI, SUM(DEBET), SUM(KREDIT)<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY NO_BUKTI
-Servers\PTIK\QueryHistory\14<|||>1<|||>2024-06-20 15:50:22|latihan|0|SELECT<{{{><}}}>SUM(debet),<{{{><}}}>SUM(kredit)<{{{><}}}>FROM jurnal2019;
-Servers\PTIK\QueryHistory\16<|||>1<|||>2024-06-20 15:51:29|latihan|0|SELECT * FROM bagan_akun;
-Servers\PTIK\QueryHistory\17<|||>1<|||>2024-06-20 15:51:47|latihan|0|SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\15<|||>1<|||>2024-06-20 15:52:04|latihan|0|SELECT COUNT(*) FROM jurnal2019<{{{><}}}>GROUP BY no_bukti;
-Servers\PTIK\QueryHistory\18<|||>1<|||>2024-06-20 15:52:14|latihan|16|SELECT no_bukti, COUNT(*) FROM jurnal2019<{{{><}}}>GROUP BY no_bukti;
-Servers\PTIK\QueryHistory\19<|||>1<|||>2024-06-20 15:52:30|latihan|0|SELECT no_bukti, COUNT(*) FROM jurnal2019<{{{><}}}>GROUP BY no_bukti;<{{{><}}}><{{{><}}}>SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\20<|||>1<|||>2024-06-20 15:52:50|latihan|15|SELECT no_bukti, COUNT(*), sum(debet) DEBIT, sum(kredit) KREDIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY no_bukti;<{{{><}}}><{{{><}}}>SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\21<|||>1<|||>2024-06-20 15:55:11|latihan|0|SELECT A.*<{{{><}}}>FROM (SELECT <{{{><}}}>		no_bukti, <{{{><}}}>		COUNT(*), <{{{><}}}>		sum(debet) DEBIT, <{{{><}}}>		sum(kredit) KREDIT <{{{><}}}>	FROM jurnal2019<{{{><}}}>	GROUP BY no_bukti) A<{{{><}}}>WHERE A.DEBIT <> A.KREDIT;<{{{><}}}><{{{><}}}>SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\23<|||>1<|||>2024-06-20 15:57:51|latihan|0|SELECT (A.DEBIT - A.KREDIT) SELISIH<{{{><}}}>FROM (SELECT <{{{><}}}>		no_bukti, <{{{><}}}>		COUNT(*), <{{{><}}}>		sum(debet) DEBIT, <{{{><}}}>		sum(kredit) KREDIT <{{{><}}}>	FROM jurnal2019<{{{><}}}>	GROUP BY no_bukti) A<{{{><}}}>WHERE A.DEBIT <> A.KREDIT;<{{{><}}}><{{{><}}}>SELECT * FROM jurnal2019 WHERE no_bukti = 'JV 0000';
-Servers\PTIK\QueryHistory\24<|||>1<|||>2024-06-20 15:57:59|latihan|0|SELECT A.*<{{{><}}}>FROM (SELECT <{{{><}}}>		no_bukti, <{{{><}}}>		COUNT(*), <{{{><}}}>		sum(debet) DEBIT, <{{{><}}}>		sum(kredit) KREDIT <{{{><}}}>	FROM jurnal2019<{{{><}}}>	GROUP BY no_bukti) A<{{{><}}}>WHERE A.DEBIT <> A.KREDIT;<{{{><}}}><{{{><}}}>SELECT * FROM jurnal2019 WHERE no_bukti = 'JV 0000';
-Servers\PTIK\QueryHistory\22<|||>1<|||>2024-06-20 16:04:26|latihan|15|CREATE TABLE jurnal2019_2 LIKE jurnal2019;<{{{><}}}>INSERT INTO jurnal2019_2 SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\25<|||>1<|||>2024-06-20 16:04:42|latihan|0|SELECT * FROM jurnal2019_2
-Servers\PTIK\QueryHistory\26<|||>1<|||>2024-06-20 16:10:18|latihan|31|UPDATE jurnal2019_2<{{{><}}}>SET kredit = 3437000<{{{><}}}>WHERE no_bukti = 'JV 0000' AND kode_akun = '32001'
-Servers\PTIK\QueryHistory\27<|||>1<|||>2024-06-20 16:10:48|latihan|0|SELECT SUM(DEBET), SUM(KREDIT)<{{{><}}}>FROM jurnal2019_2
-Servers\PTIK\QueryHistory\29<|||>1<|||>2024-06-20 16:38:28|latihan|0|DROP TABLE IF EXISTS jurnal2019_2;<{{{><}}}>CREATE TABLE jurnal2019_2 LIKE jurnal2019;<{{{><}}}>INSERT INTO jurnal2019_2 SELECT * FROM jurnal2019;
-Servers\PTIK\QueryHistory\30<|||>1<|||>2024-06-20 16:39:43|latihan|0|SELECT<{{{><}}}>	SUM(DEBET),<{{{><}}}>	SUM(KREDIT),<{{{><}}}>	KETERANGAN<{{{><}}}>FROM jurnal2019_2
-Servers\PTIK\QueryHistory\31<|||>1<|||>2024-06-20 16:40:30|latihan|156|SELECT<{{{><}}}>	no_bukti,<{{{><}}}>	SUM(DEBET),<{{{><}}}>	SUM(KREDIT),<{{{><}}}>	KETERANGAN<{{{><}}}>FROM jurnal2019_2<{{{><}}}>GROUP BY no_bukti, KETERANGAN
-Servers\PTIK\QueryHistory\32<|||>1<|||>2024-06-20 16:40:59|latihan|78|SELECT<{{{><}}}>	no_bukti,<{{{><}}}>	SUM(DEBET),<{{{><}}}>	SUM(KREDIT),<{{{><}}}>	KETERANGAN<{{{><}}}>FROM jurnal2019_2<{{{><}}}>GROUP BY KETERANGAN
-Servers\PTIK\QueryHistory\33<|||>1<|||>2024-06-20 16:41:14|latihan|78|SELECT<{{{><}}}>	no_bukti,<{{{><}}}>	SUM(DEBET),<{{{><}}}>	SUM(KREDIT),<{{{><}}}>	KETERANGAN<{{{><}}}>FROM jurnal2019_2<{{{><}}}>GROUP BY KETERANGAN, no_bukti
-Servers\PTIK\QueryHistory\34<|||>1<|||>2024-06-20 16:41:49|latihan|78|SELECT A.*<{{{><}}}>FROM<{{{><}}}>(SELECT<{{{><}}}>	no_bukti,<{{{><}}}>	SUM(DEBET) D,<{{{><}}}>	SUM(KREDIT) K,<{{{><}}}>	KETERANGAN<{{{><}}}>FROM jurnal2019_2<{{{><}}}>GROUP BY KETERANGAN, no_bukti) A<{{{><}}}>WHERE D <> K
-Servers\PTIK\QueryHistory\1<|||>1<|||>2024-06-20 16:46:25|latihan|31|SELECT <{{{><}}}>	A.kode_akun,<{{{><}}}>	B.nama_akun,<{{{><}}}>	SUM(debet) DEBIT,<{{{><}}}>	SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019_2 A<{{{><}}}>	LEFT JOIN bagan_akun B<{{{><}}}>		ON A.kode_akun = B.kode
-Servers\PTIK\QueryHistory\37<|||>1<|||>2024-06-20 16:47:19|latihan|0|DROP TABLE IF EXISTS jurnal2019_2;<{{{><}}}>CREATE TABLE jurnal2019_2 LIKE jurnal2019;<{{{><}}}>INSERT INTO jurnal2019_2 SELECT * FROM jurnal2019;<{{{><}}}>SELECT * FROM jurnal2019_2
-Servers\PTIK\QueryHistory\38<|||>1<|||>2024-06-20 16:48:04|latihan|16|DROP TABLE IF EXISTS jurnal2019_2;<{{{><}}}>CREATE TABLE jurnal2019_2 LIKE jurnal2019;<{{{><}}}>INSERT INTO jurnal2019_2 SELECT * FROM jurnal2019;<{{{><}}}>SELECT * FROM jurnal2019_2 WHERE kode_akun = '11112';
-Servers\PTIK\QueryHistory\40<|||>1<|||>2024-06-20 16:51:17|latihan|31|DROP TABLE IF EXISTS jurnal2019_2;<{{{><}}}>CREATE TABLE jurnal2019_2 LIKE jurnal2019;<{{{><}}}>INSERT INTO jurnal2019_2 SELECT * FROM jurnal2019;<{{{><}}}>SELECT * FROM jurnal2019_2 WHERE no_bukti = 'JV 0026';
-Servers\PTIK\QueryHistory\39<|||>1<|||>2024-06-20 16:51:20|latihan|16|UPDATE jurnal2019_2<{{{><}}}>SET kredit = 3437000<{{{><}}}>WHERE no_bukti = 'JV 0000' AND kode_akun = '32001';<{{{><}}}>UPDATE jurnal2019_2<{{{><}}}>SET kode_akun = '11102'<{{{><}}}>WHERE kode_akun = '11112';
-Servers\PTIK\QueryHistory\41<|||>1<|||>2024-06-20 16:51:26|latihan|31|SELECT <{{{><}}}>	A.kode_akun,<{{{><}}}>	B.nama_akun,<{{{><}}}>	SUM(debet) DEBIT,<{{{><}}}>	SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019_2 A<{{{><}}}>	LEFT JOIN bagan_akun B<{{{><}}}>		ON A.kode_akun = B.kode<{{{><}}}>GROUP BY kode_akun
-Servers\PTIK\QueryHistory\36<|||>1<|||>2024-06-20 17:04:29|latihan|16|SELECT <{{{><}}}>	A.kode_akun,<{{{><}}}>	B.nama_akun,<{{{><}}}>	SUM(debet) DEBIT,<{{{><}}}>	SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019_2 A<{{{><}}}>	LEFT JOIN bagan_akun B<{{{><}}}>		ON A.kode_akun = B.kode<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY kode_akun
-Servers\PTIK\QueryHistory\42<|||>1<|||>2024-06-20 17:07:07|latihan|15|SELECT <{{{><}}}>	A.kode_akun,<{{{><}}}>	B.nama_akun,<{{{><}}}>	SUM(debet) DEBIT,<{{{><}}}>	SUM(kredit) KREDIT<{{{><}}}>FROM jurnal2019_2 A<{{{><}}}>	LEFT JOIN bagan_akun B<{{{><}}}>		ON A.kode_akun = B.kode<{{{><}}}>WHERE MONTH(A.tgl) <= 6<{{{><}}}>GROUP BY kode_akun<{{{><}}}>ORDER BY kode_akun
-Servers\PTIK\QueryHistory\43<|||>1<|||>2024-06-20 17:44:55|latihan|0|SELECT kode_akun,<{{{><}}}>	CASE<{{{><}}}>		WHEN kode_akun LIKE '1%' THEN 'ASET'<{{{><}}}>		WHEN kode_akun LIKE '2%' THEN 'LIABILITY'<{{{><}}}>		WHEN kode_akun LIKE '3%' THEN 'EQUITY'<{{{><}}}>		ELSE 'LR'<{{{><}}}>	END<{{{><}}}>FROM jurnal2019
-Servers\PTIK\QueryHistory\44<|||>1<|||>2024-06-20 17:50:14|latihan|0|SELECT *<{{{><}}}>FROM jurnal2019
-Servers\PTIK\QueryHistory\35<|||>1<|||>2024-06-20 17:51:11|latihan|0|SELECT *<{{{><}}}>FROM jurnal2019<{{{><}}}>WHERE MONTH(tgl) % 2 = 0
-Servers\PTIK\QueryHistory\45<|||>1<|||>2024-06-20 18:17:52|latihan|16|SELECT *<{{{><}}}>FROM jurnal2019<{{{><}}}>
-Servers\PTIK\QueryHistory\46<|||>1<|||>2024-06-20 18:21:33|latihan|0|SELECT *<{{{><}}}>FROM jurnal2019_2
-Servers\PTIK\QueryHistory\47<|||>1<|||>2024-06-20 18:23:09|latihan|0|SELECT *,<{{{><}}}>CASE<{{{><}}}>	WHEN kode_akun LIKE '1%' THEN 'ASSET'<{{{><}}}>	WHEN kode_akun LIKE '2%' THEN 'LIABILITY'<{{{><}}}>	WHEN kode_akun LIKE '3%' THEN 'EQUITY'<{{{><}}}>	WHEN kode_akun LIKE '4%' THEN 'REVENUE'<{{{><}}}>	WHEN kode_akun LIKE '5%' THEN 'COGS'<{{{><}}}>	WHEN kode_akun LIKE '6%' THEN 'EXPENSE'<{{{><}}}>	ELSE 'OTHER'<{{{><}}}>END AS KELOMPOK_AKUN<{{{><}}}>FROM jurnal2019_2
-Servers\PTIK\QueryHistory\48<|||>1<|||>2024-06-20 18:25:00|latihan|16|SELECT<{{{><}}}>	A.KELOMPOK_AKUN,<{{{><}}}>	SUM(A.DEBET) DEBIT,<{{{><}}}>	SUM(A.KREDIT) KREDIT<{{{><}}}>FROM (SELECT *,<{{{><}}}>			CASE<{{{><}}}>				WHEN kode_akun LIKE '1%' THEN 'ASSET'<{{{><}}}>				WHEN kode_akun LIKE '2%' THEN 'LIABILITY'<{{{><}}}>				WHEN kode_akun LIKE '3%' THEN 'EQUITY'<{{{><}}}>				WHEN kode_akun LIKE '4%' THEN 'REVENUE'<{{{><}}}>				WHEN kode_akun LIKE '5%' THEN 'COGS'<{{{><}}}>				WHEN kode_akun LIKE '6%' THEN 'EXPENSE'<{{{><}}}>				ELSE 'OTHER'<{{{><}}}>			END AS KELOMPOK_AKUN<{{{><}}}>			FROM jurnal2019_2) A<{{{><}}}>GROUP BY KELOMPOK_AKUN
-Servers\PTIK\QueryHistory\49<|||>1<|||>2024-06-20 18:25:48|latihan|0|SELECT * FROM jurnal2019_2<{{{><}}}>WHERE kode_akun LIKE '2%' AND debet > 0
-Servers\PTIK\QueryHistory\51<|||>1<|||>2024-06-20 18:30:15|latihan|0|<{{{><}}}><{{{><}}}>SELECT no_bukti FROM jurnal2019_2<{{{><}}}>WHERE kode_akun LIKE '2%' AND debet > 0;
-Servers\PTIK\QueryHistory\50<|||>1<|||>2024-06-20 18:31:04|latihan|0|SELECT *<{{{><}}}>FROM jurnal2019_2<{{{><}}}>WHERE no_bukti IN ('JV 0121', 'JV 0230', 'JV 1192', 'JV 1498', 'JV 1860');<{{{><}}}>
-Servers\PTIK\QueryHistory\52<|||>1<|||>2024-06-20 18:32:45|latihan|0|SELECT<{{{><}}}>	A.KELOMPOK_AKUN,<{{{><}}}>	(SUM(A.DEBET) - SUM(A.KREDIT)) SALDO<{{{><}}}>FROM (SELECT *,<{{{><}}}>			CASE<{{{><}}}>				WHEN kode_akun LIKE '1%' THEN 'ASSET'<{{{><}}}>				WHEN kode_akun LIKE '2%' THEN 'LIABILITY'<{{{><}}}>				WHEN kode_akun LIKE '3%' THEN 'EQUITY'<{{{><}}}>				WHEN kode_akun LIKE '4%' THEN 'REVENUE'<{{{><}}}>				WHEN kode_akun LIKE '5%' THEN 'COGS'<{{{><}}}>				WHEN kode_akun LIKE '6%' THEN 'EXPENSE'<{{{><}}}>				ELSE 'OTHER'<{{{><}}}>			END AS KELOMPOK_AKUN<{{{><}}}>			FROM jurnal2019_2) A<{{{><}}}>GROUP BY KELOMPOK_AKUN
-Servers\PTIK\QueryHistory\53<|||>1<|||>2024-06-20 18:33:05|latihan|16|SELECT<{{{><}}}>	A.KELOMPOK_AKUN,<{{{><}}}>	ABS(SUM(A.DEBET) - SUM(A.KREDIT)) SALDO<{{{><}}}>FROM (SELECT *,<{{{><}}}>			CASE<{{{><}}}>				WHEN kode_akun LIKE '1%' THEN 'ASSET'<{{{><}}}>				WHEN kode_akun LIKE '2%' THEN 'LIABILITY'<{{{><}}}>				WHEN kode_akun LIKE '3%' THEN 'EQUITY'<{{{><}}}>				WHEN kode_akun LIKE '4%' THEN 'REVENUE'<{{{><}}}>				WHEN kode_akun LIKE '5%' THEN 'COGS'<{{{><}}}>				WHEN kode_akun LIKE '6%' THEN 'EXPENSE'<{{{><}}}>				ELSE 'OTHER'<{{{><}}}>			END AS KELOMPOK_AKUN<{{{><}}}>			FROM jurnal2019_2) A<{{{><}}}>GROUP BY KELOMPOK_AKUN
-Servers\PTIK\QueryHistory\54<|||>1<|||>2024-06-20 18:34:21|latihan|0|SELECT SUM(DEBET), SUM(KREDIT) FROM JURNAL2019_2
-Servers\PTIK\QueryHistory\55<|||>1<|||>2024-06-23 06:38:54|lat_spotify|0|SELECT genre genre_name, COUNT(id) 'jumlah'<{{{><}}}>FROM (SELECT * FROM track_genre a <{{{><}}}>LEFT JOIN track_stat b <{{{><}}}>ON a.genre_id=b.track_genre_id<{{{><}}}>ORDER BY popularity DESC<{{{><}}}>LIMIT 100)<{{{><}}}>AS top_100<{{{><}}}>GROUP BY genre_id<{{{><}}}>ORDER BY COUNT(id) desc
-Servers\PTIK\QueryHistory\57<|||>1<|||>2024-06-23 06:43:30|lat_spotify|0|SELECT A.genre, COUNT(B.track_genre_id) jumlah<{{{><}}}>FROM (SELECT track_genre_id <{{{><}}}>		FROM track_stat <{{{><}}}>		ORDER BY popularity DESC<{{{><}}}>		LIMIT 100) B<{{{><}}}>		INNER JOIN track_genre A<{{{><}}}>			ON B.track_genre_id = A.genre_id<{{{><}}}>GROUP BY A.GENRE<{{{><}}}>ORDER BY jumlah DESC;<{{{><}}}><{{{><}}}>SELECT track_genre_id <{{{><}}}>		FROM track_stat <{{{><}}}>		ORDER BY popularity DESC<{{{><}}}>		LIMIT 100
-Servers\PTIK\QueryHistory\56<|||>1<|||>2024-06-23 20:21:09|latihan|125|-- Step 1: Add a new temporary column to store the converted dates<{{{><}}}>ALTER TABLE `penjualan`<{{{><}}}>ADD COLUMN `Tgl_temp` DATE AFTER `Tgl`;<{{{><}}}><{{{><}}}>-- Step 2: Update the new column with the converted date values<{{{><}}}>UPDATE `penjualan`<{{{><}}}>SET `Tgl_temp` = STR_TO_DATE(`Tgl`, '%d/%m/%Y');<{{{><}}}><{{{><}}}>-- Step 3: Verify the conversion (optional, just for checking)<{{{><}}}>SELECT `Tgl`, `Tgl_temp` FROM `penjualan` LIMIT 10;<{{{><}}}><{{{><}}}>-- Step 4: Drop the old column<{{{><}}}>ALTER TABLE `penjualan`<{{{><}}}>DROP COLUMN `Tgl`;<{{{><}}}><{{{><}}}>-- Step 5: Rename the new column to the original column name<{{{><}}}>ALTER TABLE `penjualan`<{{{><}}}>CHANGE COLUMN `Tgl_temp` `Tgl` DATE NOT NULL;<{{{><}}}>
-Servers\PTIK\QueryHistory\58<|||>1<|||>2024-06-23 20:22:21|latihan|0|SELECT * FROM jurnal2019
-Servers\PTIK\QueryHistory\60<|||>1<|||>2024-06-23 20:23:11|latihan|0|SELECT DISTINCT kode_akun FROM jurnal2019<{{{><}}}>UNION ALL<{{{><}}}>SELECT debet FROM jurnal2019
-Servers\PTIK\QueryHistory\61<|||>1<|||>2024-06-23 20:23:36|latihan|0|SELECT kode_akun FROM jurnal2019<{{{><}}}>UNION ALL<{{{><}}}>SELECT debet FROM jurnal2019
-Servers\PTIK\QueryHistory\59<|||>1<|||>2024-06-23 20:26:24|latihan|0|SELECT kode_akun FROM jurnal2019<{{{><}}}>UNION<{{{><}}}>SELECT debet FROM jurnal2019
-Servers\PTIK\QueryHistory\28<|||>1<|||>2024-06-23 20:28:23|latihan|0|SELECT kode_akun FROM jurnal2019<{{{><}}}>UNION<{{{><}}}>SELECT debet FROM jurnal2019<{{{><}}}>UNION<{{{><}}}>SELECT kredit FROM jurnal2019
-Servers\PTIK\QueryHistory\62<|||>1<|||>2024-06-23 20:28:38|latihan|0|SELECT kode_akun FROM jurnal2019<{{{><}}}>UNION<{{{><}}}>SELECT debet FROM jurnal2019<{{{><}}}>
-Servers\PTIK\QueryHistory\64<|||>1<|||>2024-06-24 08:36:04|latihan1|0|SELECT * FROM master_invoice<{{{><}}}>ORDER BY jumlah DESC
-Servers\PTIK\QueryHistory\65<|||>1<|||>2024-06-24 08:36:57|latihan1|0|SELECT * FROM master_invoice<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\66<|||>1<|||>2024-06-24 08:46:48|latihan1|0|SELECT * FROM master_invoice
-Servers\PTIK\QueryHistory\63<|||>1<|||>2024-06-24 08:46:59|latihan1|0|SELECT MONTH(tgl_invoice) FROM master_invoice
-Servers\PTIK\QueryHistory\67<|||>1<|||>2024-06-24 08:47:09|latihan1|0|SELECT distinct MONTH(tgl_invoice) FROM master_invoice
-Servers\PTIK\QueryHistory\68<|||>1<|||>2024-06-24 08:47:27|latihan1|0|SELECT * FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice)=6
-Servers\PTIK\QueryHistory\69<|||>1<|||>2024-06-24 08:47:43|latihan1|0|SELECT * FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice)=6<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\70<|||>1<|||>2024-06-24 08:48:08|latihan1|0|SELECT * FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice)=6 AND YEAR(tgl_invoice) = 2003<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\71<|||>1<|||>2024-06-24 08:52:24|latihan1|0|SELECT * FROM DELIVERYORDER_MASTER<{{{><}}}>WHERE year(tgl_do)=2003<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\72<|||>1<|||>2024-06-24 08:52:31|latihan1|0|SELECT * FROM DELIVERYORDER_MASTER<{{{><}}}>WHERE year(tgl_do)=2003
-Servers\PTIK\QueryHistory\73<|||>1<|||>2024-06-24 08:53:10|latihan1|0|SELECT kode_plg, COUNT(*) jml_pengiriman FROM DELIVERYORDER_MASTER<{{{><}}}>WHERE year(tgl_do)=2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY jml_pengiriman desc
-Servers\PTIK\QueryHistory\74<|||>1<|||>2024-06-24 08:53:16|latihan1|0|SELECT kode_plg, COUNT(*) jml_pengiriman FROM DELIVERYORDER_MASTER<{{{><}}}>WHERE year(tgl_do)=2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY jml_pengiriman DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\75<|||>1<|||>2024-06-24 08:53:43|latihan1|0|SELECT kode_plg, COUNT(*) jml_pengiriman <{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE year(tgl_do)=2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY jml_pengiriman DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\76<|||>1<|||>2024-06-24 09:01:53|latihan1|0|SELECT A.nama_plg, SUM(B.nilai_sales)<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003)
-Servers\PTIK\QueryHistory\77<|||>1<|||>2024-06-24 09:02:15|latihan1|16|SELECT A.nama_plg, SUM(B.nilai_sales) total_sales<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003)<{{{><}}}>GROUP BY A.nama_plg<{{{><}}}>ORDER BY total_sales
-Servers\PTIK\QueryHistory\78<|||>1<|||>2024-06-24 09:02:20|latihan1|16|SELECT A.nama_plg, SUM(B.nilai_sales) total_sales<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003)<{{{><}}}>GROUP BY A.nama_plg<{{{><}}}>ORDER BY total_sales DESC
-Servers\PTIK\QueryHistory\79<|||>1<|||>2024-06-24 09:02:36|latihan1|0|SELECT A.nama_plg, SUM(B.nilai_sales) total_sales<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003) AND jenis_sales = "Ekspor"<{{{><}}}>GROUP BY A.nama_plg<{{{><}}}>ORDER BY total_sales DESC
-Servers\PTIK\QueryHistory\80<|||>1<|||>2024-06-24 09:02:55|latihan1|0|SELECT A.nama_plg, SUM(B.nilai_sales) total_sales<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003) AND jenis_sales = "Ekspor"<{{{><}}}>GROUP BY A.nama_plg<{{{><}}}>ORDER BY total_sales DESC<{{{><}}}>LIMIT 5
-Servers\PTIK\QueryHistory\81<|||>1<|||>2024-06-24 09:03:58|latihan1|0|SELECT A.nama_plg, SUM(B.nilai_sales) total_sales<{{{><}}}>FROM customer_master A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.kode_plg = B.kode_plg<{{{><}}}>WHERE YEAR(B.tgl_do) IN (2002, 2003) AND jenis_sales = "Ekspor"<{{{><}}}>GROUP BY A.nama_plg<{{{><}}}>ORDER BY total_sales DESC<{{{><}}}>LIMIT 10
-Servers\PTIK\QueryHistory\82<|||>1<|||>2024-06-24 09:08:56|latihan1|0|SELECT C.nama_plg, A.kode_produk, SUM(total) total_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>	INNER JOIN customer_master C<{{{><}}}>		ON B.kode_plg = C.kode_plg<{{{><}}}>WHERE A.kode_produk = 'Prd-014'
-Servers\PTIK\QueryHistory\83<|||>1<|||>2024-06-24 09:09:13|latihan1|0|SELECT C.nama_plg, A.kode_produk, SUM(total) total_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>	INNER JOIN customer_master C<{{{><}}}>		ON B.kode_plg = C.kode_plg<{{{><}}}>WHERE A.kode_produk = 'Prd-014'<{{{><}}}>GROUP BY C.nama_plg
-Servers\PTIK\QueryHistory\84<|||>1<|||>2024-06-24 09:09:23|latihan1|0|SELECT C.nama_plg, A.kode_produk, SUM(total) total_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>	INNER JOIN customer_master C<{{{><}}}>		ON B.kode_plg = C.kode_plg<{{{><}}}>WHERE A.kode_produk = 'Prd-014'<{{{><}}}>GROUP BY C.nama_plg<{{{><}}}>ORDER BY total_sales desc
-Servers\PTIK\QueryHistory\85<|||>1<|||>2024-06-24 09:09:28|latihan1|0|SELECT C.nama_plg, A.kode_produk, SUM(total) total_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	INNER JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>	INNER JOIN customer_master C<{{{><}}}>		ON B.kode_plg = C.kode_plg<{{{><}}}>WHERE A.kode_produk = 'Prd-014'<{{{><}}}>GROUP BY C.nama_plg<{{{><}}}>ORDER BY total_sales DESC<{{{><}}}>LIMIT 10
+Servers\PTIK\LastConnect<|||>1<|||>2025-01-12 17:39:42
+Servers\PTIK\lastUsedDB<|||>1<|||>thinkers
+Servers\PTIK\QueryHistory\86<|||>1<|||>2025-01-12 13:08:53|latihan|391|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	MAX(debet)<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
+Servers\PTIK\QueryHistory\1<|||>1<|||>2025-01-12 13:09:10|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet)<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
+Servers\PTIK\QueryHistory\2<|||>1<|||>2025-01-12 13:09:30|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
+Servers\PTIK\QueryHistory\3<|||>1<|||>2025-01-12 13:09:33|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
+Servers\PTIK\QueryHistory\5<|||>1<|||>2025-01-12 13:18:29|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN;
+Servers\Sabtu\SessionCreated<|||>1<|||>2025-01-11 09:09:41
+Servers\Sabtu\Host<|||>1<|||>127.0.0.1
+Servers\Sabtu\WindowsAuth<|||>3<|||>0
+Servers\Sabtu\CleartextPluginEnabled<|||>3<|||>0
+Servers\Sabtu\User<|||>1<|||>root
+Servers\Sabtu\Password<|||>1<|||>1
+Servers\Sabtu\LoginPrompt<|||>3<|||>0
+Servers\Sabtu\Port<|||>1<|||>3306
+Servers\Sabtu\NetType<|||>3<|||>0
+Servers\Sabtu\Compressed<|||>3<|||>0
+Servers\Sabtu\LocalTimeZone<|||>3<|||>0
+Servers\Sabtu\QueryTimeout<|||>3<|||>30
+Servers\Sabtu\KeepAlive<|||>3<|||>20
+Servers\Sabtu\FullTableStatus<|||>3<|||>1
+Servers\Sabtu\Databases<|||>1<|||>
+Servers\Sabtu\Library<|||>1<|||>libmariadb.dll
+Servers\Sabtu\Comment<|||>1<|||>
+Servers\Sabtu\StartupScriptFilename<|||>1<|||>
+Servers\Sabtu\TreeBackground<|||>3<|||>536870911
+Servers\Sabtu\SSHtunnelHost<|||>1<|||>
+Servers\Sabtu\SSHtunnelHostPort<|||>3<|||>22
+Servers\Sabtu\SSHtunnelUser<|||>1<|||>
+Servers\Sabtu\SSHtunnelPassword<|||>1<|||>7
+Servers\Sabtu\SSHtunnelTimeout<|||>3<|||>4
+Servers\Sabtu\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Sabtu\SSHtunnelPort<|||>3<|||>3307
+Servers\Sabtu\SSL_Active<|||>3<|||>0
+Servers\Sabtu\SSL_Key<|||>1<|||>
+Servers\Sabtu\SSL_Cert<|||>1<|||>
+Servers\Sabtu\SSL_CA<|||>1<|||>
+Servers\Sabtu\SSL_Cipher<|||>1<|||>
+Servers\Sabtu\IgnoreDatabasePattern<|||>1<|||>
+Servers\Sabtu\ServerVersionFull<|||>1<|||>5.5.13 - MySQL Community Server (GPL)
+Servers\Sabtu\ConnectCount<|||>3<|||>2
+Servers\Sabtu\ServerVersion<|||>3<|||>50513
+Servers\Sabtu\LastConnect<|||>1<|||>2025-01-11 09:10:18
+Servers\Sabtu\lastUsedDB<|||>1<|||>latihan1
+Servers\Sabtu\QueryHistory\1<|||>1<|||>2025-01-11 09:45:09|lat_spotify|78|SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>ORDER BY popularity DESC
+Servers\Sabtu\QueryHistory\3<|||>1<|||>2025-01-11 09:46:23|lat_spotify|0|SELECT DISTINCT track_name, popularity<{{{><}}}>FROM track_stat<{{{><}}}>ORDER BY popularity DESC
+Servers\Sabtu\QueryHistory\2<|||>1<|||>2025-01-11 09:47:23|lat_spotify|16|SELECT DISTINCT track_name, danceability<{{{><}}}>FROM track_stat<{{{><}}}>ORDER BY danceability DESC
+Servers\Sabtu\QueryHistory\4<|||>1<|||>2025-01-11 09:47:34|lat_spotify|0|SELECT DISTINCT track_name, danceability<{{{><}}}>FROM track_stat<{{{><}}}>ORDER BY danceability DESC<{{{><}}}>LIMIT 7
+Servers\Sabtu\QueryHistory\5<|||>1<|||>2025-01-11 09:47:43|lat_spotify|15|SELECT DISTINCT track_name, danceability<{{{><}}}>FROM track_stat<{{{><}}}>ORDER BY danceability DESC<{{{><}}}>LIMIT 9
+Servers\Sabtu\QueryHistory\6<|||>1<|||>2025-01-11 09:48:54|lat_spotify|0|SELECT * FROM track_genre<{{{><}}}>WHERE genre LIKE "%funk%"
+Servers\Sabtu\QueryHistory\7<|||>1<|||>2025-01-11 09:49:01|lat_spotify|16|SELECT track_name, popularity<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 38<{{{><}}}>ORDER BY danceability DESC<{{{><}}}>LIMIT 9
+Servers\Sabtu\QueryHistory\8<|||>1<|||>2025-01-11 09:49:16|lat_spotify|0|SELECT track_name, popularity<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 38<{{{><}}}>ORDER BY popularity DESC<{{{><}}}>LIMIT 9
+Servers\Sabtu\QueryHistory\9<|||>1<|||>2025-01-11 09:51:18|lat_spotify|16|SELECT track_genre_id, AVG(tempo) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY rata2 DESC<{{{><}}}>LIMIT 9
+Servers\Sabtu\QueryHistory\10<|||>1<|||>2025-01-11 09:51:36|lat_spotify|0|SELECT * FROM track_genre<{{{><}}}>WHERE genre_id=33
+Servers\Sabtu\QueryHistory\11<|||>1<|||>2025-01-11 09:52:49|lat_spotify|15|SELECT * FROM track_genre<{{{><}}}>WHERE genre LIKE "%kpop%"
+Servers\Sabtu\QueryHistory\12<|||>1<|||>2025-01-11 09:52:57|lat_spotify|0|SELECT * FROM track_genre<{{{><}}}>WHERE genre LIKE "%k-pop%"
+Servers\Sabtu\QueryHistory\13<|||>1<|||>2025-01-11 09:54:42|lat_spotify|0|SELECT artist_id, AVG(popularity) rata2<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 66<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY rata2 DESC<{{{><}}}>LIMIT 9
+Servers\Sabtu\QueryHistory\14<|||>1<|||>2025-01-11 09:55:15|lat_spotify|16|SELECT artist_id, AVG(popularity) rata2<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 66<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY rata2 DESC<{{{><}}}>LIMIT 9;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 13086
+Servers\Sabtu\QueryHistory\15<|||>1<|||>2025-01-11 09:59:07|lat_spotify|0|SELECT track_genre_id, AVG(energy) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY rata2 ASC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 13086
+Servers\Sabtu\QueryHistory\16<|||>1<|||>2025-01-11 09:59:43|lat_spotify|0|SELECT track_genre_id, AVG(energy) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY rata2 ASC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM track_genre<{{{><}}}>WHERE genre_id = 24
+Servers\Sabtu\QueryHistory\17<|||>1<|||>2025-01-11 10:00:01|lat_spotify|0|SELECT track_genre_id, AVG(energy) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY rata2 ASC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM track_genre<{{{><}}}>WHERE genre_id = 93
+Servers\Sabtu\QueryHistory\18<|||>1<|||>2025-01-11 10:02:21|lat_spotify|0|SELECT * FROM track_genre<{{{><}}}>WHERE genre LIKE "%punk%"
+Servers\Sabtu\QueryHistory\19<|||>1<|||>2025-01-11 10:02:38|lat_spotify|0|SELECT artist_id, COUNT(*) jml<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 86<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY jml DESC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM track_genre<{{{><}}}>WHERE genre_id = 93
+Servers\Sabtu\QueryHistory\20<|||>1<|||>2025-01-11 10:03:06|lat_spotify|0|SELECT artist_id, COUNT(*) jml<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_genre_id = 86<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY jml DESC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 3965
+Servers\Sabtu\QueryHistory\21<|||>1<|||>2025-01-11 10:05:29|lat_spotify|359|SELECT <{{{><}}}>	A.artist_id, <{{{><}}}>	B.artists, <{{{><}}}>	COUNT(*) jml<{{{><}}}>FROM track_stat A<{{{><}}}>	JOIN artists B<{{{><}}}>		ON A.artist_id=B.artist_id<{{{><}}}>WHERE track_genre_id = 86<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY jml DESC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 3965
+Servers\Sabtu\QueryHistory\22<|||>1<|||>2025-01-11 10:07:10|lat_spotify|15|SELECT<{{{><}}}>	album_id,<{{{><}}}>	AVG(liveness) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY album_id<{{{><}}}>ORDER BY rata2 DESC;<{{{><}}}><{{{><}}}><{{{><}}}>SELECT <{{{><}}}>	A.artist_id, <{{{><}}}>	B.artists, <{{{><}}}>	COUNT(*) jml<{{{><}}}>FROM track_stat A<{{{><}}}>	JOIN artists B<{{{><}}}>		ON A.artist_id=B.artist_id<{{{><}}}>WHERE track_genre_id = 86<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY jml DESC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 3965
+Servers\Sabtu\QueryHistory\23<|||>1<|||>2025-01-11 10:07:40|lat_spotify|31|SELECT<{{{><}}}>	album_id,<{{{><}}}>	AVG(liveness) rata2<{{{><}}}>FROM track_stat<{{{><}}}>GROUP BY album_id<{{{><}}}>ORDER BY rata2 DESC;<{{{><}}}><{{{><}}}>SELECT * FROM album WHERE album_id = 20828;<{{{><}}}><{{{><}}}><{{{><}}}>SELECT <{{{><}}}>	A.artist_id, <{{{><}}}>	B.artists, <{{{><}}}>	COUNT(*) jml<{{{><}}}>FROM track_stat A<{{{><}}}>	JOIN artists B<{{{><}}}>		ON A.artist_id=B.artist_id<{{{><}}}>WHERE track_genre_id = 86<{{{><}}}>GROUP BY artist_id<{{{><}}}>ORDER BY jml DESC<{{{><}}}>LIMIT 15;<{{{><}}}><{{{><}}}>SELECT * FROM artists<{{{><}}}>WHERE artist_id = 3965
+Servers\Sabtu\QueryHistory\24<|||>1<|||>2025-01-11 10:10:18|lat_spotify|15|SELECT * FROM ARTISTs<{{{><}}}>WHERE artists LIKE "%blackpink%"
+Servers\Sabtu\QueryHistory\25<|||>1<|||>2025-01-11 10:11:04|lat_spotify|0|SELECT * FROM ARTISTs<{{{><}}}>WHERE artists LIKE "%blackpink%";<{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>WHERE ARTIST_ID = 3894<{{{><}}}>ORDER BY POPULARITY DESC
+Servers\Sabtu\QueryHistory\26<|||>1<|||>2025-01-11 10:12:07|lat_spotify|16|SELECT * FROM ARTISTs<{{{><}}}>WHERE artists LIKE "%182%";<{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>WHERE ARTIST_ID = 3894<{{{><}}}>ORDER BY POPULARITY DESC
+Servers\Sabtu\QueryHistory\27<|||>1<|||>2025-01-11 10:12:12|lat_spotify|16|SELECT * FROM ARTISTs<{{{><}}}>WHERE artists LIKE "%182%";<{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>WHERE ARTIST_ID = 3965<{{{><}}}>ORDER BY POPULARITY DESC
+Servers\Sabtu\QueryHistory\28<|||>1<|||>2025-01-11 10:13:17|lat_spotify|16|SELECT * FROM ARTISTs<{{{><}}}>WHERE artists LIKE "%182%";<{{{><}}}><{{{><}}}>SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>WHERE ARTIST_ID = 3965<{{{><}}}>ORDER BY POPULARITY DESC;<{{{><}}}><{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%"<{{{><}}}>
+Servers\Sabtu\QueryHistory\29<|||>1<|||>2025-01-11 10:15:22|lat_spotify|16|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	artist_id, <{{{><}}}>	COUNT(*)<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>GROUP BY artist_id<{{{><}}}>
+Servers\Sabtu\QueryHistory\30<|||>1<|||>2025-01-11 10:16:20|lat_spotify|16|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	COUNT(DISTINCT artist_id) <{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>GROUP BY artist_id<{{{><}}}>
+Servers\Sabtu\QueryHistory\31<|||>1<|||>2025-01-11 10:16:27|lat_spotify|16|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	COUNT(DISTINCT artist_id) <{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>
+Servers\Sabtu\QueryHistory\32<|||>1<|||>2025-01-11 10:17:54|lat_spotify|16|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	COUNT(DISTINCT artist_id) <{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%";<{{{><}}}><{{{><}}}>-- nomor 3<{{{><}}}>SELECT<{{{><}}}>	track_genre_id,<{{{><}}}>	COUNT(*)<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY COUNT(*) DESC<{{{><}}}>
+Servers\Sabtu\QueryHistory\33<|||>1<|||>2025-01-11 10:18:25|lat_spotify|16|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	COUNT(DISTINCT artist_id) <{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%";<{{{><}}}><{{{><}}}>-- nomor 3<{{{><}}}>SELECT<{{{><}}}>	track_genre_id,<{{{><}}}>	COUNT(*)<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY COUNT(*) DESC;<{{{><}}}>SELECT * FROM track_genre WHERE genre_id = 21;<{{{><}}}>
+Servers\Sabtu\QueryHistory\34<|||>1<|||>2025-01-11 10:21:08|lat_spotify|32|-- nomor 1<{{{><}}}>SELECT COUNT(*)<{{{><}}}>FROM album<{{{><}}}>WHERE ALBUM_NAME LIKE "%INDONESIA%";<{{{><}}}><{{{><}}}>-- nomor 2<{{{><}}}>SELECT <{{{><}}}>	COUNT(DISTINCT artist_id) <{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%";<{{{><}}}><{{{><}}}>-- nomor 3<{{{><}}}>SELECT<{{{><}}}>	track_genre_id,<{{{><}}}>	COUNT(*)<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>GROUP BY track_genre_id<{{{><}}}>ORDER BY COUNT(*) DESC;<{{{><}}}>SELECT * FROM track_genre WHERE genre_id = 21;<{{{><}}}><{{{><}}}>-- nomor 4<{{{><}}}>SELECT *<{{{><}}}>FROM track_stat<{{{><}}}>WHERE track_name LIKE "%love%"<{{{><}}}>ORDER BY popularity DESC;
+Servers\Sabtu\QueryHistory\35<|||>1<|||>2025-01-11 10:27:54|latihan1|0|SELECT *<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003
+Servers\Sabtu\QueryHistory\36<|||>1<|||>2025-01-11 10:28:15|latihan1|0|SELECT kode_plg, COUNT(*)<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg
+Servers\Sabtu\QueryHistory\37<|||>1<|||>2025-01-11 10:28:31|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC
+Servers\Sabtu\QueryHistory\40<|||>1<|||>2025-01-11 10:29:46|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 10
+Servers\Sabtu\QueryHistory\38<|||>1<|||>2025-01-11 10:30:05|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 15
+Servers\Sabtu\QueryHistory\41<|||>1<|||>2025-01-11 10:30:10|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20
+Servers\Sabtu\QueryHistory\39<|||>1<|||>2025-01-11 10:31:56|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20;<{{{><}}}><{{{><}}}>SELECT YEAR(tgl_do), COUNT(*)<{{{><}}}>FROM deliveryorder_master<{{{><}}}>GROUP BY 1
+Servers\Sabtu\QueryHistory\42<|||>1<|||>2025-01-11 10:34:34|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20;<{{{><}}}><{{{><}}}>SELECT kode_plg, SUM(total_sales)<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE (jenis_sales = "Ekspor")<{{{><}}}>	AND (YEAR(tgl_do) = 2002 OR YEAR(tgl_do) = 2003)<{{{><}}}>GROUP BY 1
+Servers\Sabtu\QueryHistory\43<|||>1<|||>2025-01-11 10:34:55|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20;<{{{><}}}><{{{><}}}>SELECT kode_plg, SUM(total_sales) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE (jenis_sales = "Ekspor")<{{{><}}}>	AND (YEAR(tgl_do) = 2002 OR YEAR(tgl_do) = 2003)<{{{><}}}>GROUP BY 1<{{{><}}}>ORDER BY JML DESC
+Servers\Sabtu\QueryHistory\44<|||>1<|||>2025-01-11 10:38:57|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20;<{{{><}}}><{{{><}}}>SELECT C.nama_plg, SUM(D.nilai_sales) JML<{{{><}}}>FROM deliveryorder_master D<{{{><}}}>	JOIN customer_master C<{{{><}}}>		ON D.kode_plg=C.kode_plg<{{{><}}}>WHERE (D.jenis_sales = "Ekspor")<{{{><}}}>	AND (YEAR(D.tgl_do) = 2002 OR YEAR(D.tgl_do) = 2003)<{{{><}}}>GROUP BY 1<{{{><}}}>ORDER BY JML DESC
+Servers\Sabtu\QueryHistory\45<|||>1<|||>2025-01-11 10:39:19|latihan1|0|SELECT kode_plg, COUNT(*) JML<{{{><}}}>FROM deliveryorder_master<{{{><}}}>WHERE YEAR(tgl_do) = 2003<{{{><}}}>GROUP BY kode_plg<{{{><}}}>ORDER BY JML DESC<{{{><}}}>LIMIT 20;<{{{><}}}><{{{><}}}>SELECT C.nama_plg, SUM(nilai_sales) JML<{{{><}}}>FROM deliveryorder_master D<{{{><}}}>	JOIN customer_master C<{{{><}}}>		ON D.kode_plg=C.kode_plg<{{{><}}}>WHERE (D.jenis_sales = "Ekspor")<{{{><}}}>	AND (YEAR(D.tgl_do) = 2002 OR YEAR(D.tgl_do) = 2003)<{{{><}}}>GROUP BY 1<{{{><}}}>ORDER BY JML DESC
+Servers\Sabtu\QueryHistory\46<|||>1<|||>2025-01-11 10:46:42|latihan1|0|SELECT A.total/A.quantity<{{{><}}}>FROM sales_detail A
+Servers\Sabtu\QueryHistory\47<|||>1<|||>2025-01-11 10:46:59|latihan1|0|SELECT <{{{><}}}>	kode_produk,<{{{><}}}>	A.total/A.quantity<{{{><}}}>FROM sales_detail A
+Servers\Sabtu\QueryHistory\48<|||>1<|||>2025-01-11 10:47:21|latihan1|0|SELECT <{{{><}}}>	kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)<{{{><}}}>FROM sales_detail A
+Servers\Sabtu\QueryHistory\49<|||>1<|||>2025-01-11 10:47:45|latihan1|0|SELECT <{{{><}}}>	kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)<{{{><}}}>FROM sales_detail A<{{{><}}}>GROUP BY kode_produk
+Servers\Sabtu\QueryHistory\50<|||>1<|||>2025-01-11 10:47:55|latihan1|0|SELECT <{{{><}}}>	kode_produk,<{{{><}}}>	AVG(A.total/A.quantity) rata_rev<{{{><}}}>FROM sales_detail A<{{{><}}}>GROUP BY kode_produk
+Servers\Sabtu\QueryHistory\51<|||>1<|||>2025-01-11 10:49:24|latihan1|16|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity) rata_rev<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk
+Servers\Sabtu\QueryHistory\52<|||>1<|||>2025-01-11 10:49:35|latihan1|15|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity) rata_rev,<{{{><}}}>	B.avg_cost<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk
+Servers\Sabtu\QueryHistory\53<|||>1<|||>2025-01-11 10:50:02|latihan1|16|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk
+Servers\Sabtu\QueryHistory\54<|||>1<|||>2025-01-11 10:50:33|latihan1|16|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC
+Servers\Sabtu\QueryHistory\55<|||>1<|||>2025-01-11 10:54:00|latihan1|16|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT *<{{{><}}}>FROM sales_detail<{{{><}}}>WHERE kode_produk = "Prd-014"
+Servers\Sabtu\QueryHistory\56<|||>1<|||>2025-01-11 10:55:09|latihan1|0|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT *<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>WHERE A.kode_produk = "Prd-014"
+Servers\Sabtu\QueryHistory\57<|||>1<|||>2025-01-11 10:56:07|latihan1|0|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT B.kode_plg, SUM(A.total)<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>WHERE A.kode_produk = "Prd-014"<{{{><}}}>GROUP BY B.kode_plg
+Servers\Sabtu\QueryHistory\58<|||>1<|||>2025-01-11 10:56:34|latihan1|0|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT B.kode_plg, SUM(A.total) total_tofu_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>WHERE A.kode_produk = "Prd-014"<{{{><}}}>GROUP BY B.kode_plg<{{{><}}}>ORDER BY total_tofu_sales
+Servers\Sabtu\QueryHistory\59<|||>1<|||>2025-01-11 10:56:39|latihan1|0|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT B.kode_plg, SUM(A.total) total_tofu_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>WHERE A.kode_produk = "Prd-014"<{{{><}}}>GROUP BY B.kode_plg<{{{><}}}>ORDER BY total_tofu_sales DESC
+Servers\Sabtu\QueryHistory\60<|||>1<|||>2025-01-11 10:58:04|latihan1|16|SELECT <{{{><}}}>	A.kode_produk,<{{{><}}}>	AVG(A.total/A.quantity)-B.avg_cost profit<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN produk_master B<{{{><}}}>		ON A.kode_produk = B.kode_produk<{{{><}}}>GROUP BY A.kode_produk<{{{><}}}>ORDER BY profit DESC;<{{{><}}}><{{{><}}}>-- tofu<{{{><}}}>SELECT <{{{><}}}>	B.kode_plg,<{{{><}}}>	C.nama_plg, <{{{><}}}>	SUM(A.total) total_tofu_sales<{{{><}}}>FROM sales_detail A<{{{><}}}>	JOIN deliveryorder_master B<{{{><}}}>		ON A.no_do = B.no_do<{{{><}}}>			JOIN customer_master C<{{{><}}}>				ON B.kode_plg=C.kode_plg<{{{><}}}>WHERE A.kode_produk = "Prd-014"<{{{><}}}>GROUP BY B.kode_plg<{{{><}}}>ORDER BY total_tofu_sales DESC
 Servers\TABK\SessionCreated<|||>1<|||>2024-06-04 15:46:42
 Servers\TABK\Host<|||>1<|||>127.0.0.1
 Servers\TABK\WindowsAuth<|||>3<|||>0
@@ -405,41 +475,3 @@ Servers\TABK\QueryHistory\8<|||>1<|||>2024-07-08 16:50:42|latihan1|0|SELECT * <{
 Servers\TABK\QueryHistory\10<|||>1<|||>2024-07-08 16:50:48|latihan1|0|SELECT * <{{{><}}}>FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice) = 1<{{{><}}}>	AND YEAR(tgl_invoice) = 2004<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>
 Servers\TABK\QueryHistory\12<|||>1<|||>2024-07-08 16:53:37|latihan1|0|SELECT * <{{{><}}}>FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice) = 1<{{{><}}}>	AND YEAR(tgl_invoice) = 2004<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>LIMIT 11<{{{><}}}>
 Servers\TABK\QueryHistory\13<|||>1<|||>2024-07-08 16:53:41|latihan1|0|SELECT * <{{{><}}}>FROM master_invoice<{{{><}}}>WHERE MONTH(tgl_invoice) = 1<{{{><}}}>	AND YEAR(tgl_invoice) = 2004<{{{><}}}>ORDER BY jumlah DESC<{{{><}}}>LIMIT 10<{{{><}}}>
-Servers\Unnamed\SessionCreated<|||>1<|||>2024-12-30 09:34:19
-Servers\Unnamed\Host<|||>1<|||>127.0.0.1
-Servers\Unnamed\WindowsAuth<|||>3<|||>0
-Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
-Servers\Unnamed\User<|||>1<|||>root
-Servers\Unnamed\Password<|||>1<|||>8
-Servers\Unnamed\LoginPrompt<|||>3<|||>0
-Servers\Unnamed\Port<|||>1<|||>3306
-Servers\Unnamed\NetType<|||>3<|||>0
-Servers\Unnamed\Compressed<|||>3<|||>0
-Servers\Unnamed\LocalTimeZone<|||>3<|||>0
-Servers\Unnamed\QueryTimeout<|||>3<|||>30
-Servers\Unnamed\KeepAlive<|||>3<|||>20
-Servers\Unnamed\FullTableStatus<|||>3<|||>1
-Servers\Unnamed\Databases<|||>1<|||>
-Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
-Servers\Unnamed\Comment<|||>1<|||>
-Servers\Unnamed\StartupScriptFilename<|||>1<|||>
-Servers\Unnamed\TreeBackground<|||>3<|||>536870911
-Servers\Unnamed\SSHtunnelHost<|||>1<|||>
-Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
-Servers\Unnamed\SSHtunnelUser<|||>1<|||>
-Servers\Unnamed\SSHtunnelPassword<|||>1<|||>1
-Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
-Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
-Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
-Servers\Unnamed\SSL_Active<|||>3<|||>0
-Servers\Unnamed\SSL_Key<|||>1<|||>
-Servers\Unnamed\SSL_Cert<|||>1<|||>
-Servers\Unnamed\SSL_CA<|||>1<|||>
-Servers\Unnamed\SSL_Cipher<|||>1<|||>
-Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
-Servers\Unnamed\ServerVersionFull<|||>1<|||>5.5.13 - MySQL Community Server (GPL)
-Servers\Unnamed\ConnectCount<|||>3<|||>1
-Servers\Unnamed\ServerVersion<|||>3<|||>50513
-Servers\Unnamed\LastConnect<|||>1<|||>2024-12-30 09:34:24
-Servers\Unnamed\lastUsedDB<|||>1<|||>latihan
-Servers\Unnamed\QueryHistory\1<|||>1<|||>2024-12-30 09:35:14|latihan|0|SELECT * FROM bagan_akun
