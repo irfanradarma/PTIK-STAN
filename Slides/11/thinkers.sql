@@ -12,12 +12,12 @@ CREATE TABLE `writer` (
 INSERT INTO `writer` (`id_writer`, `writer_name`, `birth_year`) VALUES
 	('01', 'Rene Descartes', '1596'),
 	('02', 'John Locke', '1632'),
-	('03', 'Immanuel Kant', '1724'),
-	('04', 'Friedrich Nietzsche', '1844'),
-	('05', 'George Orwell', '1903'),
-	('06', 'Jean-Jacques Rousseau', '1712'),
-	('07', 'David Hume', '1711'),
-	('08', 'Søren Kierkegaard', '1813'),
+	('05', 'Immanuel Kant', '1724'),
+	('07', 'Friedrich Nietzsche', '1844'),
+	('08', 'George Orwell', '1903'),
+	('04', 'Jean-Jacques Rousseau', '1712'),
+	('03', 'David Hume', '1711'),
+	('06', 'Søren Kierkegaard', '1813'),
 	('09', 'Simone de Beauvoir', '1908'),
 	('10', 'Albert Camus', '1913');
 

@@ -1,6 +1,4 @@
-SELECT
-	MONTH(tgl) BULAN,
-	kode_akun,
-	MAX(debet) DEBIT
-FROM jurnal2019
-GROUP BY BULAN;
+SELECT * FROM books
+WHERE Id IN (SELECT books
+FROM questions
+WHERE q_id=3)
