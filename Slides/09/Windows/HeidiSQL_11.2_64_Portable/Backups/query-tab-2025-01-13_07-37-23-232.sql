@@ -17,9 +17,9 @@ INSERT INTO `writer` (`id_writer`, `writer_name`, `birth_year`) VALUES
 	('05', 'George Orwell', '1903'),
 	('06', 'Jean-Jacques Rousseau', '1712'),
 	('07', 'David Hume', '1711'),
-	('08', 'Søren Kierkegaard', '1813'),
-	('09', 'Simone de Beauvoir', '1908'),
-	('10', 'Albert Camus', '1913');
+	('008', 'Søren Kierkegaard', '1813'),
+	('009', 'Simone de Beauvoir', '1908'),
+	('010', 'Albert Camus', '1913');
 
 DROP TABLE IF EXISTS Books;
 

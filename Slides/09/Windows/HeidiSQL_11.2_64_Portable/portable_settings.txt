@@ -130,8 +130,9 @@ SQL Attr Variable Style<|||>3<|||>0
 Language<|||>1<|||>en
 FieldEditor_Set<|||>3<|||>1
 FilterPanel<|||>3<|||>0
-SQLFile0<|||>1<|||>C:\Users\teuku.radarma\Downloads\spotify_data.sql
-SQLFile1<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK\PTIK-STAN\Slides\09\Windows\HeidiSQL_11.2_64_Portable\Backups\query-tab-2025-01-12_13-08-09-684.sql
+SQLFile0<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK\PTIK-STAN\Slides\11\thinkers.sql
+SQLFile1<|||>1<|||>C:\Users\teuku.radarma\Downloads\spotify_data.sql
+SQLFile2<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\PTIK\PTIK-STAN\Slides\09\Windows\HeidiSQL_11.2_64_Portable\Backups\query-tab-2025-01-12_13-08-09-684.sql
 Servers\PTIK\SessionCreated<|||>1<|||>2023-10-21 11:00:25
 Servers\PTIK\Host<|||>1<|||>127.0.0.1
 Servers\PTIK\WindowsAuth<|||>3<|||>0
@@ -166,20 +167,22 @@ Servers\PTIK\SSL_Cipher<|||>1<|||>
 Servers\PTIK\IgnoreDatabasePattern<|||>1<|||>
 Servers\PTIK\RefusedCount<|||>3<|||>12
 Servers\PTIK\ServerVersionFull<|||>1<|||>5.5.13 - MySQL Community Server (GPL)
-Servers\PTIK\ConnectCount<|||>3<|||>13
+Servers\PTIK\ConnectCount<|||>3<|||>12
 Servers\PTIK\ServerVersion<|||>3<|||>50513
-Servers\PTIK\LastConnect<|||>1<|||>2025-01-12 17:39:42
+Servers\PTIK\LastConnect<|||>1<|||>2025-01-12 13:12:16
 Servers\PTIK\lastUsedDB<|||>1<|||>thinkers
 Servers\PTIK\QueryHistory\86<|||>1<|||>2025-01-12 13:08:53|latihan|391|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	MAX(debet)<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
 Servers\PTIK\QueryHistory\1<|||>1<|||>2025-01-12 13:09:10|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet)<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
 Servers\PTIK\QueryHistory\2<|||>1<|||>2025-01-12 13:09:30|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY 1
 Servers\PTIK\QueryHistory\3<|||>1<|||>2025-01-12 13:09:33|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN
 Servers\PTIK\QueryHistory\5<|||>1<|||>2025-01-12 13:18:29|latihan|0|SELECT<{{{><}}}>	MONTH(tgl) BULAN,<{{{><}}}>	kode_akun,<{{{><}}}>	MAX(debet) DEBIT<{{{><}}}>FROM jurnal2019<{{{><}}}>GROUP BY BULAN;
-Servers\PTIK\QueryHistory\4<|||>1<|||>2025-01-12 17:43:34|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR < 1800
-Servers\PTIK\QueryHistory\6<|||>1<|||>2025-01-12 17:43:45|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR <= 1800
-Servers\PTIK\QueryHistory\7<|||>1<|||>2025-01-12 17:46:12|thinkers|0|SELECT * FROM questions<{{{><}}}>WHERE q_id = '03'
-Servers\PTIK\QueryHistory\8<|||>1<|||>2025-01-12 17:47:07|thinkers|0|SELECT * FROM books WHERE id IN (SELECT books FROM questions<{{{><}}}>WHERE q_id = '03')
-Servers\PTIK\QueryHistory\9<|||>1<|||>2025-01-12 17:51:22|thinkers|0|SELECT * FROM books<{{{><}}}>WHERE topics = '08'
+Servers\PTIK\QueryHistory\4<|||>1<|||>2025-01-12 16:16:13|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE topics='05'
+Servers\PTIK\QueryHistory\6<|||>1<|||>2025-01-12 16:16:27|thinkers|0|SELECT COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE topics='05'<{{{><}}}>GROUP BY writer
+Servers\PTIK\QueryHistory\7<|||>1<|||>2025-01-12 16:16:32|thinkers|0|SELECT writer, COUNT(*)<{{{><}}}>FROM books<{{{><}}}>WHERE topics='05'<{{{><}}}>GROUP BY writer
+Servers\PTIK\QueryHistory\8<|||>1<|||>2025-01-12 16:20:24|thinkers|0|SELECT writer, COUNT(*)<{{{><}}}>FROM books<{{{><}}}>GROUP BY writer
+Servers\PTIK\QueryHistory\9<|||>1<|||>2025-01-12 16:20:36|thinkers|0|SELECT writer, COUNT(*) C<{{{><}}}>FROM books<{{{><}}}>GROUP BY writer<{{{><}}}>ORDER BY C 
+Servers\PTIK\QueryHistory\10<|||>1<|||>2025-01-13 07:38:32|thinkers|0|SELECT * FROM books;<{{{><}}}><{{{><}}}>SELECT * FROM questions;<{{{><}}}><{{{><}}}>SELECT * FROM topics;<{{{><}}}>SELECT * FROM writer;
+Servers\PTIK\QueryHistory\11<|||>1<|||>2025-01-13 07:38:46|thinkers|0|
 Servers\Sabtu\SessionCreated<|||>1<|||>2025-01-11 09:09:41
 Servers\Sabtu\Host<|||>1<|||>127.0.0.1
 Servers\Sabtu\WindowsAuth<|||>3<|||>0
