@@ -34,7 +34,7 @@ SessionManager_WindowWidth<|||>3<|||>858
 SessionManager_WindowLeft<|||>3<|||>299
 SessionManager_WindowTop<|||>3<|||>149
 FileDialogEncoding_MainForm<|||>3<|||>0
-querymemoheight<|||>3<|||>316
+querymemoheight<|||>3<|||>174
 MainWinMaximized<|||>3<|||>1
 FontSize<|||>3<|||>14
 DataFontSize<|||>3<|||>13
@@ -54,7 +54,7 @@ ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
 ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
 ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
 ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
-dbtreewidth<|||>3<|||>261
+dbtreewidth<|||>3<|||>214
 QueryWarningsMessage<|||>3<|||>0
 FileDialogEncoding_loaddataform<|||>3<|||>0
 loadfilename<|||>1<|||>C:\Users\teuku.radarma\OneDrive - Kemenkeu\PKN STAN\TABK Genap\TABK Genap 2024\Private Slide\Kuis 1\Purchase.csv
@@ -197,8 +197,8 @@ Servers\PTIK\QueryHistory\22<|||>1<|||>2025-01-13 08:07:00|thinkers|0|SELECT * F
 Servers\PTIK\QueryHistory\23<|||>1<|||>2025-01-13 08:07:10|thinkers|0|SELECT * FROM books;<{{{><}}}><{{{><}}}>SELECT COUNT(title), YEAR<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR < 1800;<{{{><}}}><{{{><}}}>SELECT <{{{><}}}>	writer.writer_name,<{{{><}}}>	topics.topics<{{{><}}}>FROM writer<{{{><}}}>INNER JOIN topics<{{{><}}}>ON writer.id_writer = topics.Id<{{{><}}}>WHERE topics.topics = 'Ethics and Morality'<{{{><}}}>ORDER BY writer.writer_name;<{{{><}}}><{{{><}}}>SELECT <{{{><}}}>WRITER.WRITER_NAME, <{{{><}}}>writer.BIRTH_YEAR,<{{{><}}}>QUESTIONS.QUESTIONs<{{{><}}}>FROM writer<{{{><}}}>INNER JOIN QUESTIONS<{{{><}}}>ON writer.id_writer = questions.q_id<{{{><}}}>WHERE WRITER.BIRTH_YEAR > 1900;
 Servers\PTIK\QueryHistory\24<|||>1<|||>2025-01-13 08:08:07|thinkers|0|SELECT * FROM books;<{{{><}}}><{{{><}}}>SELECT COUNT(title), YEAR<{{{><}}}>FROM books<{{{><}}}>WHERE YEAR < 1800;<{{{><}}}><{{{><}}}>SELECT <{{{><}}}>	writer.writer_name,<{{{><}}}>	topics.topics<{{{><}}}>FROM writer<{{{><}}}>INNER JOIN topics<{{{><}}}>ON writer.id_writer = topics.Id<{{{><}}}>WHERE topics.topics = 'Ethics and Morality'<{{{><}}}>ORDER BY writer.writer_name;<{{{><}}}><{{{><}}}>SELECT <{{{><}}}>WRITER.WRITER_NAME, <{{{><}}}>writer.BIRTH_YEAR,<{{{><}}}>QUESTIONS.QUESTIONs<{{{><}}}>FROM writer<{{{><}}}>INNER JOIN QUESTIONS<{{{><}}}>ON writer.id_writer = questions.q_id<{{{><}}}>WHERE WRITER.BIRTH_YEAR > 1900 AND<{{{><}}}>questions.questions = 'What are the principles of a just society?';
 Servers\PTIK\QueryHistory\25<|||>1<|||>2025-01-13 08:18:32|thinkers|0|SELECT books<{{{><}}}>FROM questions<{{{><}}}>WHERE q_id=3
-Servers\PTIK\QueryHistory\26<|||>1<|||>2025-01-13 08:19:01|thinkers|0|SELECT * FROM books<{{{><}}}>WHERE Id IN (SELECT books<{{{><}}}>FROM questions<{{{><}}}>WHERE q_id=3)
-Servers\PTIK\thinkers|books\Sort<|||>1<|||>0_Writer|
+Servers\PTIK\QueryHistory\27<|||>1<|||>2025-01-13 09:50:38|thinkers|0|SELECT * FROM books<{{{><}}}>WHERE Id IN (SELECT books<{{{><}}}>FROM questions<{{{><}}}>WHERE q_id=3)
+Servers\PTIK\thinkers|books\Sort<|||>1<|||>0_Topics|
 Servers\Sabtu\SessionCreated<|||>1<|||>2025-01-11 09:09:41
 Servers\Sabtu\Host<|||>1<|||>127.0.0.1
 Servers\Sabtu\WindowsAuth<|||>3<|||>0

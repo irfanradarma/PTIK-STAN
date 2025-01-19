@@ -145,10 +145,14 @@ by Teuku Raja Irfan Radarma
     <tr>
     <td>12</td>
     <td>Big Data, AI, Data Mining I</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/Pertemuan%20ke-12%20-%20BigData-MachecineLearning-AI%20-1.pptx" target="_blank">Big Data, Machine Learning, AI</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/12.%20Big%20Data,%20Machine%20Learning,%20AI.pptx" target="_blank">Big Data, Machine Learning, AI</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/Pengenalan%20Klasifikasi.xlsx" target="_blank">- Demo Klasifikasi</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/data%20obesitas.csv" target="_blank">- Data Obesitas</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iris.xlsx" target="_blank">- Data Iris</a><br><br>
+    <a href="https://orangedatamining.com/download/" target="_blank">link unduh Orange Data Mining</a>
+    </td>
+    <td><a href="https://forms.gle/UFRdoyWc114zm9Gr8" target="_blank">Tugas X: Kuesioner iseng-iseng</a></td>
   </tr>
   <tr>
     <td>13</td>
