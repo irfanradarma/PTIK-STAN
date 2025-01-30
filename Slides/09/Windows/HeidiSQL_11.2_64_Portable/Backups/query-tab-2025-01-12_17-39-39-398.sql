@@ -1,2 +1,1 @@
-SELECT * FROM books
-WHERE topics = '08'
+SELECT * FROM books where id IN (SELECT books FROM questions WHERE q_id = '01')
