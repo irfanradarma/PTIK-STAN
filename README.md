@@ -158,13 +158,13 @@ by Teuku Raja Irfan Radarma
     <td>13</td>
     <td>Big Data, AI, Data Mining II</td>
     <td></td>
-    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/13.%20AI%20dan%20Praktik%20Data%20Mining.pptx" target="_blank">AI dan Praktik Data Mining</a></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/13.%20AI%20dan%20Praktik%20Data%20Mining.pptx" target="_blank">AI dan Praktik Data Mining</a></td>
     <td>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iris_clustering.csv" target="_blank">Iris Clustering</a><br>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iris_classification.csv" target="_blank">Iris Classification</a><br>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/diabet.csv" target="_blank">Diabetes (Classification)</a><br>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/Housing.csv" target="_blank">House Pricing (Regression)</a><br>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iseng.xlsx" target="_blank">Data Iseng</a></td>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/iris_clustering.csv" target="_blank">Iris Clustering</a><br>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/iris_classification.csv" target="_blank">Iris Classification</a><br>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/diabet.csv" target="_blank">Diabetes (Classification)</a><br>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/Housing.csv" target="_blank">House Pricing (Regression)</a><br>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/iseng.xlsx" target="_blank">Data Iseng</a></td>
     <td>Install Python!</td>
   </tr>
   <tr>
