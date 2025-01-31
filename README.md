@@ -163,9 +163,9 @@ by Teuku Raja Irfan Radarma
     - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iris_clustering.csv" target="_blank">Iris Clustering</a><br>
     - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iris_classification.csv" target="_blank">Iris Classification</a><br>
     - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/diabet.csv" target="_blank">Diabetes (Classification)</a><br>
-    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/Housing.csv" target="_blank">House Pricing (Regression)</a></a><br>
-    - Data Iseng</td>
-    <td></td>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/Housing.csv" target="_blank">House Pricing (Regression)</a><br>
+    - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/12/iseng.xlsx" target="_blank">Data Iseng</a></td>
+    <td>Install Python!</td>
   </tr>
   <tr>
     <td>14</td>
