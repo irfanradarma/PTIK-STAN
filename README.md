@@ -171,9 +171,10 @@ by Teuku Raja Irfan Radarma
     <td>14</td>
     <td>Pemrograman Dasar</td>
     <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/14/14.%20Intro%20to%20Programming%20with%20Python.pptx" target="_blank">Intro to Programming with Python</a></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Host Aplikasi Streamlit kalian di Streamlit Community Cloud<br>
+    submit url aplikasi kalian di sini: google form (menyusul) </td>
   </tr>
   <tr>
     <td>15</td>
