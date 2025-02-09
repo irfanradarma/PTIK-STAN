@@ -173,13 +173,14 @@ by Teuku Raja Irfan Radarma
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/14/materi%20python.zip" target="_blank">Materi python</a></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/14/14.%20Intro%20to%20Programming%20with%20Python.pptx" target="_blank">Intro to Programming with Python</a></td>
     <td></td>
-    <td>Host Aplikasi Streamlit kalian di Streamlit Community Cloud<br>
-    submit url aplikasi kalian di sini: google form (menyusul) </td>
+    <td><a href="https://forms.gle/6esBd7t188u5VmFG9" target="_blank">Group Project: Streamlit App</a></td>
   </tr>
   <tr>
     <td>15</td>
-    <td colspan="5" align="center" color="black">Ujian Praktikum Akhir Semester<br>
-    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/data_final.sql" target="_blank">data ujian praktikum</a></td>
+    <td colspan="5" align="center" color="black">
+    <a href="https://forms.gle/y6357gjauus6ddSd8" target="_blank">Ujian Praktikum Akhir Semester</a><br>
+    <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/data_final.sql" target="_blank">data ujian praktikum</a>
+    </td>
   </tr>
   <tr>
     <td>16</td>
