@@ -157,7 +157,7 @@ by Teuku Raja Irfan Radarma
   <tr>
     <td>13</td>
     <td>Big Data, AI, Data Mining II</td>
-    <td></td>
+    <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/Pertemuan%20ke-12%20DATA%20MINING%20-%20ORANGE%20edited.pptx" target="_blank">Data Mining Orange</a></td>
     <td><a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/13.%20AI%20dan%20Praktik%20Data%20Mining.pptx" target="_blank">AI dan Praktik Data Mining</a></td>
     <td>
     - <a href="https://github.com/irfanradarma/PTIK-STAN/raw/main/Slides/13/iris_clustering.csv" target="_blank">Iris Clustering</a><br>
